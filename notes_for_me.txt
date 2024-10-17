@@ -1,0 +1,7 @@
+So funktioniert ein Bild lokal in der content\overview.md:
+{{< figure src="../images/spielfeld.png" alt="Startseitenbild" >}}
+
+zum Bauen für github in der hugo.toml:
+baseURL = "https://brettimkopf.github.io/Kacken-auf-Wacken"
+lokal:
+baseURL = "http://localhost:1313/"
