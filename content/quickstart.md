@@ -6,10 +6,12 @@ draft = false
 
 <div class="content-container">
 
-## Die Regeln in Kurzform für eilige:
-_Leg die Karten so aus:_
+<div style="text-align: center;">
+
+## Leg die Karten so aus:
+</div>
 
 {{< img src="images/Spielfeld.png" alt="Example image." caption="Lorem ipsum dolor sit amet." >}}
 
-Hier kommt noch **mehr** Text
-
+- Wie du die Bühnen und den Backstage-Bereich auslegst, wird [hier](../tutorials/#buehne) beschrieben
+- Zum Seitenanfang kommst du [hier](#leg-die-karten-so-aus)

@@ -3,6 +3,10 @@ languageCode = "de-de"
 title = "Kacken auf Wacken"
 theme = "zen"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 [params]
 favicon = "favicon.png"
 icon = "favicon.png"
@@ -18,21 +22,27 @@ copyright = "© BrettImKopf"
   url = "/"
   weight = 1
 [[menu.main]]
+  identifier = "zubehoer"
+  name = "Zubehör"
+  link = "#zubehoer"
+  url = "/zubehoer"
+  weight = 2
+[[menu.main]]
   identifier = "quickstart"
   name = "Quickstart"
   link = "#quickstart"
   url = "/quickstart"
-  weight = 2
+  weight = 3
 [[menu.main]]
   identifier = "introduction"
   name = "Einführung"
   link = "#introduction"
   url = "/introduction"
-  weight = 3
+  weight = 4
 
 [[menu.main]]
   identifier = "tutorials"
   name = "Tutorials+FAQs"
   link = "#tutorials"
   url = "/tutorials"
-  weight = 4
+  weight = 5
