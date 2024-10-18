@@ -9,7 +9,7 @@ draft = false
 ## Die Regeln in Kurzform für eilige:
 _Leg die Karten so aus:_
 
-	{{< img src="/images/Spielfeld.png" alt="Example image." caption="Lorem ipsum dolor sit amet." >}}
+	{{< img src="images/Spielfeld.png" alt="Example image." caption="Lorem ipsum dolor sit amet." >}}
 
 Hier kommt noch **mehr** Text
 
