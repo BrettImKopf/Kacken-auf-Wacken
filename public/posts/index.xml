@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Kacken auf Wacken</title>
-    <link>https://brettimkopf.github.io/KackenAufWacken/posts/</link>
+    <link>http://localhost:1313/KackenAufWacken/posts/</link>
     <description>Recent content in Posts on Kacken auf Wacken</description>
     <generator>Hugo</generator>
     <language>de-de</language>
     <lastBuildDate>Thu, 17 Oct 2024 16:55:05 +0200</lastBuildDate>
-      <atom:link href="https://brettimkopf.github.io/KackenAufWacken/posts/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="http://localhost:1313/KackenAufWacken/posts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

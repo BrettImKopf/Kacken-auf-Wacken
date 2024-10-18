@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://brettimkopf.github.io/KackenAufWacken/posts/</loc>
+    <loc>http://localhost:1313/KackenAufWacken/posts/</loc>
     <lastmod>2024-10-17T16:55:05+02:00</lastmod>
   </url><url>
-    <loc>https://brettimkopf.github.io/KackenAufWacken/introduction/</loc>
+    <loc>http://localhost:1313/KackenAufWacken/introduction/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brettimkopf.github.io/KackenAufWacken/</loc>
+    <loc>http://localhost:1313/KackenAufWacken/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brettimkopf.github.io/KackenAufWacken/quickstart/</loc>
+    <loc>http://localhost:1313/KackenAufWacken/quickstart/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brettimkopf.github.io/KackenAufWacken/tutorials/</loc>
+    <loc>http://localhost:1313/KackenAufWacken/tutorials/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://brettimkopf.github.io/KackenAufWacken/categories/</loc>
+    <loc>http://localhost:1313/KackenAufWacken/categories/</loc>
   </url><url>
-    <loc>https://brettimkopf.github.io/KackenAufWacken/tags/</loc>
+    <loc>http://localhost:1313/KackenAufWacken/tags/</loc>
   </url>
 </urlset>
