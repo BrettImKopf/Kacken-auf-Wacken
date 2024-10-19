@@ -11,10 +11,10 @@ theme = "zen"
 favicon = "favicon.png"
 icon = "favicon.png"
 sitename = false
-copyright = "© BrettImKopf"
-  menuInHeader = false        # Move the main menu to the header, default false.
-  mobileMenu = false          # Turn on a mobile menu on small screens, default false.
-  mobileMenuOutline = true   # Mobil menu button as outline, default false.
+copyright = "[© BrettImKopf](https://github.com/BrettImKopf/KackenAufWacken)"
+poweredby = true
+menuInHeader = false        # Move the main menu to the header, default false.
+mobileMenuOutline = true   # Mobil menu button as outline, default false.
 [[menu.main]]
   identifier = "main"
   name = "Startseite"

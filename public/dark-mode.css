@@ -1,0 +1,24 @@
+/* dark-mode.css */
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+a {
+    color: #bb86fc;
+}
+
+header, footer {
+    background-color: #1e1e1e;
+}
+
+nav {
+    background-color: #333333;
+}
+
+pre, code {
+    background-color: #272727;
+    color: #ffffff;
+}
+
+/* Passe hier je nach dem Design deines Themes weitere Farben an */
