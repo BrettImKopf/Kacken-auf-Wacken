@@ -21,28 +21,37 @@ mobileMenuOutline = true   # Mobil menu button as outline, default false.
   link = "#main"
   url = "/"
   weight = 1
+  [menu.main.params]
+  caption = "Zurück zur Hauptseite"
 [[menu.main]]
   identifier = "zubehoer"
   name = "Zubehör"
   link = "#zubehoer"
   url = "/zubehoer"
   weight = 2
+  [menu.main.params]
+  caption = "Zubehör"
 [[menu.main]]
   identifier = "quickstart"
   name = "Quickstart"
   link = "#quickstart"
   url = "/quickstart"
   weight = 3
+  [menu.main.params]
+  caption = "Schnellstart"
 [[menu.main]]
   identifier = "introduction"
   name = "Einführung"
   link = "#introduction"
   url = "/introduction"
   weight = 4
-
+  [menu.main.params]
+  caption = "Einführung"
 [[menu.main]]
   identifier = "tutorials"
   name = "Tutorials+FAQs"
   link = "#tutorials"
   url = "/tutorials"
   weight = 5
+  [menu.main.params]
+  caption = "Einführung"

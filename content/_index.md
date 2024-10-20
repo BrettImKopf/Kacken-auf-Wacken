@@ -10,4 +10,4 @@ draft = false
 
 ## Das ultimative Kartenspiel für Metalheads
 
-</div>
+{{< menu-on-main >}}
