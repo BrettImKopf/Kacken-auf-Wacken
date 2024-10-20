@@ -20,7 +20,7 @@ mobileMenuOutline = true   # Mobil menu button as outline, default false.
   name = "Startseite"
   link = "#main"
   url = "/"
-  weight = 1
+  weight = 5
   [menu.main.params]
   caption = "Zurück zur Hauptseite"
 [[menu.main]]
@@ -28,7 +28,7 @@ mobileMenuOutline = true   # Mobil menu button as outline, default false.
   name = "Zubehör"
   link = "#zubehoer"
   url = "/zubehoer"
-  weight = 2
+  weight = 3
   [menu.main.params]
   caption = "Zubehör"
 [[menu.main]]
@@ -36,7 +36,7 @@ mobileMenuOutline = true   # Mobil menu button as outline, default false.
   name = "Quickstart"
   link = "#quickstart"
   url = "/quickstart"
-  weight = 3
+  weight = 4
   [menu.main.params]
   caption = "Schnellstart"
 [[menu.main]]
@@ -44,7 +44,7 @@ mobileMenuOutline = true   # Mobil menu button as outline, default false.
   name = "Einführung"
   link = "#introduction"
   url = "/introduction"
-  weight = 4
+  weight = 1
   [menu.main.params]
   caption = "Einführung"
 [[menu.main]]
@@ -52,6 +52,6 @@ mobileMenuOutline = true   # Mobil menu button as outline, default false.
   name = "Tutorials+FAQs"
   link = "#tutorials"
   url = "/tutorials"
-  weight = 5
+  weight = 2
   [menu.main.params]
   caption = "Einführung"
