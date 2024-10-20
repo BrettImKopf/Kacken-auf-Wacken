@@ -229,9 +229,6 @@ li {
   .main li {
     max-width: var(--max-line-width); }
 
-header {
-  margin-block: 0 0.495rem; }
-
 hr {
   height: 0; }
 
