@@ -42,7 +42,7 @@ mobileMenuOutline = true   # Mobil menu button as outline, default false.
   caption = "Wie werden die Karten verteilt und ausgelegt?"
 [[menu.main]]
   identifier = "quickstart"
-  name = "Quickstart"
+  name = "Kurzanleitung"
   link = "#quickstart"
   url = "/quickstart"
   weight = 4

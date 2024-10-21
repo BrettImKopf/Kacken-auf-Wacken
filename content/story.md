@@ -1,7 +1,7 @@
 +++
-title = "Die Story"
 date = "2024-10-16"
 draft = false
 +++
 
-##Inhalt der Einführung-Seite.
+<h1 id="story">Die Story:</h1>
+
