@@ -5,19 +5,25 @@
     <loc>http://localhost:1313/Kacken-auf-Wacken/posts/</loc>
     <lastmod>2024-10-17T16:55:05+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/faq/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/rules/</loc>
+    <lastmod>2024-10-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Kacken-auf-Wacken/zubehoer/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/introduction/</loc>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/story/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Kacken-auf-Wacken/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/quickstart/</loc>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/vorbereitung/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/tutorials/</loc>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/quickstart/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/Kacken-auf-Wacken/categories/</loc>

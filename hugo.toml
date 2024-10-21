@@ -15,14 +15,15 @@ copyright = "© [BrettImKopf](https://github.com/BrettImKopf/Kacken-auf-Wacken)"
 poweredby = true
 menuInHeader = false        # Move the main menu to the header, default false.
 mobileMenuOutline = true   # Mobil menu button as outline, default false.
+
 [[menu.main]]
-  identifier = "main"
-  name = "Startseite"
-  link = "#main"
-  url = "/"
+  identifier = "story"
+  name = "Story"
+  link = "#story"
+  url = "/story"
   weight = 1
   [menu.main.params]
-  caption = "Zurück zur Hauptseite"
+  caption = "Worum geht's?"
 [[menu.main]]
   identifier = "zubehoer"
   name = "Zubehör"
@@ -30,28 +31,46 @@ mobileMenuOutline = true   # Mobil menu button as outline, default false.
   url = "/zubehoer"
   weight = 2
   [menu.main.params]
-  caption = "Zubehör"
+  caption = "Welche Karten gibt es?"
+[[menu.main]]
+  identifier = "vorbereitung"
+  name = "Vorbereitung"
+  link = "#vorbereitung"
+  url = "/vorbereitung"
+  weight = 3
+  [menu.main.params]
+  caption = "Wie werden die Karten verteilt und ausgelegt?"
 [[menu.main]]
   identifier = "quickstart"
   name = "Quickstart"
   link = "#quickstart"
   url = "/quickstart"
-  weight = 3
-  [menu.main.params]
-  caption = "Schnellstart"
-[[menu.main]]
-  identifier = "introduction"
-  name = "Einführung"
-  link = "#introduction"
-  url = "/introduction"
   weight = 4
   [menu.main.params]
-  caption = "Einführung"
+  caption = "Schnelleinstieg für Eilige"
 [[menu.main]]
-  identifier = "tutorials"
-  name = "Tutorials+FAQs"
-  link = "#tutorials"
-  url = "/tutorials"
+  identifier = "rules"
+  name = "Spielregeln"
+  link = "#rules"
+  url = "/rules"
   weight = 5
   [menu.main.params]
-  caption = "Einführung"
+  caption = "Die Regeln im Detail"
+[[menu.main]]
+  identifier = "faq"
+  name = "FAQs"
+  link = "#faq"
+  url = "/faq"
+  weight = 6
+  [menu.main.params]
+  caption = "Fragen und Antworten"
+[[menu.main]]
+  identifier = "main"
+  name = "Startseite"
+  link = "#main"
+  url = "/"
+  weight = 7
+  [menu.main.params]
+  caption = "Zurück zur Hauptseite"
+
+

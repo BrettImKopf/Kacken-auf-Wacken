@@ -1,12 +1,16 @@
-<ul>
+<!-- <ul> -->
   {{ range sort site.Menus.main "Weight" -}}
     {{ if ne .Identifier "main" }} 
-      <li>
+      <!-- <li> -->
+	  <h2>
         <a href="{{ .URL | relLangURL }}">{{ .Name }}</a>
+	</h2>
         {{ with .Params.caption }}
-          <p class="menu-caption">{{ . }}</p>
+		<h3>
+          <p class="menu-caption">&emsp;{{ . }}</p>
+		</h3>
         {{ end }}
-      </li>
+      <!-- </li> -->
     {{ end }}
   {{ end -}}
-</ul>
+<!-- </ul> -->
