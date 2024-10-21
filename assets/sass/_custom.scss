@@ -1,0 +1,72 @@
+// Site custom styles. This file loads last.
+// Colour map.
+$colors: (
+  brand:                  $brand,
+  brand-alt:              $brand-alt,
+  brand-light:            $brand-light,
+  brand-dark:             $brand-dark,
+
+  text:                   $black,
+  text-bg:                $white,
+  text-meta:              $grey-dark,
+
+  link:                   $brand,
+  link-visited:           $brand,
+  link-hover:             $brand-alt,
+  link-active:            $red,
+
+  link-inverted:          $white,
+  link-visited-inverted:  $white,
+  link-hover-inverted:    $white,
+  link-active-inverted:   $red,
+
+  border:                 $brand,
+  border-light:           $brand-light,
+  border-dark:            $brand-dark,
+
+  autocomplete:           $black,
+  autocomplete-bg:        $white,
+  autocomplete-select:    $white,
+  autocomplete-select-bg: $blue,
+
+  body-bg:                $black,
+  header-bg:              $white,
+  footer-bg:              $white,
+  backdrop:               $black,
+
+  mobile-menu:            $brand,
+  mobile-menu-cover:      rgba($black, .2),
+
+  button:                 $brand,
+  button-hover:           $brand-alt,
+  button-text:            $white,
+  button-text-hover:      $white,
+  button-disabled:        $grey,
+
+  mark-highlight:         $red,
+  mark-bg:                $yellow,
+
+  menu-active:            $black,
+
+  preview-bg:             lighten($yellow, 43%),
+
+  row-header:             transparent,
+  row-odd:                $nearwhite,
+  row-even:               transparent,
+
+  status:                 $green,
+  status-bg:              lighten($green, 62%),
+  warning:                $black,
+  warning-bg:             lighten($yellow, 45%),
+  warning-border:         $yellow,
+  error:                  $red,
+  error-bg:               lighten($red, 57%),
+
+  watermark:              $grey-extra-light,
+
+  headings:               $nearblack,
+
+  code:                   $nearblack,
+
+  highlight:              $brand-alt,
+);
