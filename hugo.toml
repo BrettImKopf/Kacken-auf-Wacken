@@ -1,45 +1,46 @@
 baseURL = "https://brettimkopf.github.io/Kacken-auf-Wacken"
-languageCode = "de-de"
-title = "Kacken auf Wacken"
-theme = "zen"
+languageCode = 'de_de'
+title = 'Kacken auf Wacken'
+theme = "hello-friend-ng"
+defaultContentLanguage = "en"
 
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+  [languages.de]
+    languageName = "Deutsch"
+    weight = 2
+
 [params]
-favicon = "favicon.png"
-icon = "favicon.png"
-sitename = false
-copyright = "© [BrettImKopf](https://github.com/BrettImKopf/Kacken-auf-Wacken)"
-poweredby = true
-menuInHeader = false        # Move the main menu to the header, default false.
-mobileMenuOutline = true   # Mobil menu button as outline, default false.
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
 
-[[menu.main]]
+  # Subtitle for home
+  homeSubtitle = "A simple and beautiful blog"
+
+  
+ [[menu.main]]
   identifier = "story"
   name = "Story"
   link = "#story"
   url = "/story"
   weight = 1
-  [menu.main.params]
-  caption = "Worum geht's?"
 [[menu.main]]
   identifier = "zubehoer"
   name = "Zubehör"
   link = "#zubehoer"
   url = "/zubehoer"
   weight = 2
-  [menu.main.params]
-  caption = "Welche Karten gibt es?"
 [[menu.main]]
   identifier = "vorbereitung"
   name = "Vorbereitung"
   link = "#vorbereitung"
   url = "/vorbereitung"
   weight = 3
-  [menu.main.params]
-  caption = "Wie werden die Karten verteilt und ausgelegt?"
 [[menu.main]]
   identifier = "quickstart"
   name = "Kurzanleitung"
@@ -72,5 +73,3 @@ mobileMenuOutline = true   # Mobil menu button as outline, default false.
   weight = 7
   [menu.main.params]
   caption = "Zurück zur Hauptseite"
-
-

@@ -1,54 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Main on Kacken auf Wacken</title>
-    <link>http://localhost:1313/Kacken-auf-Wacken/</link>
+    <link>https://brettimkopf.github.io/Kacken-auf-Wacken/</link>
     <description>Recent content in Main on Kacken auf Wacken</description>
     <generator>Hugo</generator>
-    <language>de-de</language>
+    <language>en</language>
     <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
-      <atom:link href="http://localhost:1313/Kacken-auf-Wacken/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://brettimkopf.github.io/Kacken-auf-Wacken/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://localhost:1313/Kacken-auf-Wacken/faq/</link>
+      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/faq/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Kacken-auf-Wacken/faq/</guid>
-      <description>&lt;h1 id=&#34;faq&#34;&gt;FAQs:&lt;/h1&gt;</description>
+      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/faq/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h3 id=&#34;you-can-add-a-header&#34;&gt;You can add a header&lt;/h3&gt;&#xA;&lt;p&gt;You can add text within a collapsed section.&#xA;You can add an image or a code block, too.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img alt=&#34;&amp;ldquo;ffdd&amp;rdquo;&#34; src=&#34;https://brettimkopf.github.io/Kacken-auf-Wacken/../static/images/Spielfeld.png&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wie du die Bühnen und den Backstage-Bereich auslegst, wird &lt;a href=&#34;../tutorials/#buehne&#34;&gt;hier&lt;/a&gt; beschrieben&lt;/li&gt;&#xA;&lt;li&gt;Zum Seitenanfang kommst du &lt;a href=&#34;https://brettimkopf.github.io/Kacken-auf-Wacken/Kacken-auf-Wacken/faq/#leg-die-karten-so-aus&#34;&gt;hier&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-ruby&#34; data-lang=&#34;ruby&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   puts &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello World&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/Kacken-auf-Wacken/quickstart/</link>
+      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/quickstart/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Kacken-auf-Wacken/quickstart/</guid>
-      <description>&lt;h1 id=&#34;quickstart&#34;&gt;Kurzanleitung:&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;../vorbereitung/#vorbereitung&#34;&gt;Legt die Karten aus&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;zug&#34;&gt;Ein Zug sieht so aus:&lt;/h2&gt;&#xD;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;Zuerst guckst du, ob du kacken musst&lt;/em&gt;&lt;/strong&gt;. &lt;br/&gt;Wenn ja, rennst du zur Toilette. &lt;br/&gt;&lt;strong&gt;Egal, ob ein Klo frei ist oder nicht: In jedem Fall ist dein Zug anschließend beendet.&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;&#xA;&lt;li&gt;Wenn du nicht gerade kacken musst, &lt;strong&gt;musst&lt;/strong&gt; du eine von zwei Aktionen durchführen:&#xA;&lt;br/&gt;&lt;strong&gt;Bier holen (wenn du noch eine Hand frei hast)&lt;/strong&gt;&#xA;&lt;br/&gt;oder&#xA;&lt;br/&gt;&lt;strong&gt;&amp;ldquo;Rock!&amp;quot;-Karte ziehen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;br/&gt; Wenn du dabei eine &amp;ldquo;Kacken&amp;rdquo;-Karte ziehst, legst du sie offen vor dir ab &lt;br/&gt;&lt;strong&gt;und dein Zug ist sofort beendet.&lt;/strong&gt;&#xA;&lt;br/&gt;&lt;br/&gt;3. Wenn nicht, kannst du jetzt überlegen, ob du zu einer der Bühnen gehst und abrockst.&lt;/p&gt;&#xA;</description>
+      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/quickstart/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://brettimkopf.github.io/Kacken-auf-Wacken/Kacken-auf-Wacken/vorbereitung/#vorbereitung&#34;&gt;Legt die Karten aus&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;Zuerst guckst du, ob du kacken musst&lt;/em&gt;&lt;/strong&gt;. &lt;!-- raw HTML omitted --&gt;Wenn ja, rennst du zur Toilette. &lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Egal, ob ein Klo frei ist oder nicht: In jedem Fall ist dein Zug anschließend beendet.&lt;/strong&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/li&gt;&#xA;&lt;li&gt;Wenn du nicht gerade kacken musst, &lt;strong&gt;musst&lt;/strong&gt; du eine von zwei Aktionen durchführen:&#xA;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;Bier holen (wenn du noch eine Hand frei hast)&lt;/strong&gt;&#xA;&lt;!-- raw HTML omitted --&gt;oder&#xA;&lt;!-- raw HTML omitted --&gt;&lt;strong&gt;&amp;ldquo;Rock!&amp;quot;-Karte ziehen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;!-- raw HTML omitted --&gt; Wenn du dabei eine &amp;ldquo;Kacken&amp;rdquo;-Karte ziehst, legst du sie offen vor dir ab &lt;!-- raw HTML omitted --&gt;&lt;strong&gt;und dein Zug ist sofort beendet.&lt;/strong&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;3. Wenn nicht, kannst du jetzt überlegen, ob du zu einer der Bühnen gehst und abrockst.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/Kacken-auf-Wacken/rules/</link>
+      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/rules/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Kacken-auf-Wacken/rules/</guid>
-      <description>&lt;h1 id=&#34;rules&#34;&gt;Das sind die Regeln:&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;Wenn ihr &lt;a href=&#34;../vorbereitung/#vorbereitung&#34;&gt;alles vorbereitet&lt;/a&gt; habt, geht&amp;rsquo;s los: Wer die längsten Haare hat, fängt an. Danach geht es im Uhrzeigersinn weiter.&lt;/p&gt;&#xA;&lt;h2 id=&#34;zug&#34;&gt;Ein Zug sieht so aus:&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Zuerst guckst du, ob du kacken musst&lt;/em&gt;&lt;/strong&gt;. &lt;br/&gt;Wenn ja, rennst du zur Toilette. Wenn du Glück hast, ist ein Klo frei, und du kannst deine &amp;ldquo;Kacken&amp;rdquo;-Karte abgeben. Wenn nicht, dann nicht. &lt;br/&gt;&lt;strong&gt;In jedem Fall ist dein Zug anschließend beendet.&lt;/strong&gt;&#xA;&lt;br/&gt;Wenn du nicht gerade kacken musst, &lt;strong&gt;musst&lt;/strong&gt; du eine von zwei Aktionen durchführen:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bier holen (wenn du noch eine Hand frei hast)&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;gucken, auf welche Band du gerade Bock hast.&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;In beiden Fällen kann es passieren, dass du eine &amp;ldquo;Kacken&amp;rdquo;-Karte ziehst, du also plötzlich kacken musst.&lt;br/&gt;&#xA;Wenn das passiert, legst du die &amp;ldquo;Kacken&amp;rdquo;-Karte offen vor dir ab und dein Zug ist sofort beendet.&lt;/p&gt;&#xA;</description>
+      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/rules/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;Wenn ihr &lt;a href=&#34;https://brettimkopf.github.io/Kacken-auf-Wacken/Kacken-auf-Wacken/vorbereitung/#vorbereitung&#34;&gt;alles vorbereitet&lt;/a&gt; habt, geht&amp;rsquo;s los: Wer die längsten Haare hat, fängt an. Danach geht es im Uhrzeigersinn weiter.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Zuerst guckst du, ob du kacken musst&lt;/em&gt;&lt;/strong&gt;. &lt;!-- raw HTML omitted --&gt;Wenn ja, rennst du zur Toilette. Wenn du Glück hast, ist ein Klo frei, und du kannst deine &amp;ldquo;Kacken&amp;rdquo;-Karte abgeben. Wenn nicht, dann nicht. &lt;!-- raw HTML omitted --&gt;&lt;strong&gt;In jedem Fall ist dein Zug anschließend beendet.&lt;/strong&gt;&#xA;&lt;!-- raw HTML omitted --&gt;Wenn du nicht gerade kacken musst, &lt;strong&gt;musst&lt;/strong&gt; du eine von zwei Aktionen durchführen:&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/Kacken-auf-Wacken/story/</link>
+      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/story/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Kacken-auf-Wacken/story/</guid>
-      <description>&lt;h1 id=&#34;story&#34;&gt;Die Story:&lt;/h1&gt;&#xD;&#xA;</description>
+      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/story/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/Kacken-auf-Wacken/vorbereitung/</link>
+      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/vorbereitung/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Kacken-auf-Wacken/vorbereitung/</guid>
-      <description>&lt;div class=&#34;content-container&#34;&gt;&#xD;&#xA;&lt;h1 id=&#34;vorbereitung&#34;&gt;Vorbereitung:&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;vorbereitung&#34;&gt;So sieht der Holy Ground aus:&lt;/h2&gt;&#xD;&#xA;&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/Kacken-auf-Wacken/Kacken-auf-Wacken/images/Spielfeld.png&#34; loading=&#34;lazy&#34; alt=&#34;Das Spielfeld&#34;&gt;&#xD;&#xA;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wie du die Bühnen und den Backstage-Bereich auslegst, wird &lt;a href=&#34;../tutorials/#buehne&#34;&gt;hier&lt;/a&gt; beschrieben&lt;/li&gt;&#xA;&lt;li&gt;Zum Seitenanfang kommst du &lt;a href=&#34;#leg-die-karten-so-aus&#34;&gt;hier&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;</description>
+      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/vorbereitung/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wie du die Bühnen und den Backstage-Bereich auslegst, wird &lt;a href=&#34;../tutorials/#buehne&#34;&gt;hier&lt;/a&gt; beschrieben&lt;/li&gt;&#xA;&lt;li&gt;Zum Seitenanfang kommst du &lt;a href=&#34;https://brettimkopf.github.io/Kacken-auf-Wacken/Kacken-auf-Wacken/vorbereitung/#leg-die-karten-so-aus&#34;&gt;hier&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/Kacken-auf-Wacken/zubehoer/</link>
+      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/zubehoer/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Kacken-auf-Wacken/zubehoer/</guid>
-      <description>&lt;h1 id=&#34;zubehoer&#34;&gt;Das findet ihr im Spiel:&lt;/h&gt;</description>
+      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/zubehoer/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>
