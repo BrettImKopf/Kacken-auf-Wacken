@@ -27,8 +27,7 @@ EnableThemeToggle = "true"
 	
 [params.logo]
 	path = "images/logo.png"
-    alt = "Your example logo alt text"
-  
+    alt = "Kacjen auf Wacken"
  [[menu.main]]
   identifier = "story"
   name = "Story"

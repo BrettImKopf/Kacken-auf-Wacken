@@ -13,7 +13,7 @@ draft = false
 You can add text within a collapsed section. 
 You can add an image or a code block, too.
    
-   !["ffdd"](/../static/images/Spielfeld.png)
+   !["ffdd"](/images/Spielfeld.png)
    
 - Wie du die Bühnen und den Backstage-Bereich auslegst, wird [hier](../tutorials/#buehne) beschrieben
 - Zum Seitenanfang kommst du [hier](#leg-die-karten-so-aus)
