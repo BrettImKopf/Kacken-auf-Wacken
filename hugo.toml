@@ -3,6 +3,7 @@ languageCode = 'de_de'
 title = 'Kacken auf Wacken'
 theme = "hello-friend-ng"
 defaultContentLanguage = "en"
+EnableThemeToggle = "true"
 
 [languages]
   [languages.en]
@@ -18,10 +19,15 @@ defaultContentLanguage = "en"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04"
-
+	EnableThemeToggle = "true"
+	
   # Subtitle for home
   homeSubtitle = "A simple and beautiful blog"
 
+	
+[params.logo]
+	path = "images/logo.png"
+    alt = "Your example logo alt text"
   
  [[menu.main]]
   identifier = "story"
