@@ -6,7 +6,7 @@ draft = false
 <details>
    
 
-<summary><h2>Tips for collapsed sections</h2></summary>
+<summary>Tips for collapsed sections</summary>
 
 ### You can add a header
 
