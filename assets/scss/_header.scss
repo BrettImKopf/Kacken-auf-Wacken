@@ -9,7 +9,7 @@
   background: $light-background-header;
 
   @media (prefers-color-scheme: dark) {
-    background: $dark-background-header;
+    background: black;
   }
 
   @media (prefers-color-scheme: light) {
@@ -17,7 +17,7 @@
   }
 
   [data-theme=dark] & {
-    background: $dark-background-header;
+    background: black;
   }
 
   [data-theme=light] & {
