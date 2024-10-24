@@ -9,7 +9,7 @@ draft = false
 ## Das ultimative Kartenspiel für Metalheads
 
 <details>
-  <summary><span style="font-size: 2em;">Worum geht’s?</span></summary>
+  <summary><span style="font-size: 1.8em;">Worum geht’s?</span></summary>
  
 ***
 
