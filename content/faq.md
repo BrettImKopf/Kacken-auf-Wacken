@@ -4,9 +4,10 @@ draft = false
 +++
 
 <details>
-  <summary>Click me</summary>
-  
-  bla
-  VG
-  
+  <summary><span style="font-size: 2em;">Click me</span></summary>
+  <p>bla</p>
+  <details>
+  <summary><span style="font-size: 2em;">Click me</span></summary>
+  <p>bla</p>
 </details>
+

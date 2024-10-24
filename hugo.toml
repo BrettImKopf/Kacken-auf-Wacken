@@ -5,6 +5,11 @@ theme = "hello-friend-ng"
 defaultContentLanguage = "en"
 EnableThemeToggle = "true"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [languages]
   [languages.en]
     languageName = "English"
