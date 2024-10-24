@@ -10,7 +10,7 @@ draft = false
 
 | Name    | Alter | Stadt       |
 |:------- |:-----:|-------------:|
-| Anna    | 30    | Berlin      |
+| ![text](images/rueckseiten/OnStage_klein.png) | 30    | Berlin      |
 | Max     | 25    | München     |
 | Laura   | 28    | Hamburg     |
 
