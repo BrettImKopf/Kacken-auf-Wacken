@@ -5,7 +5,7 @@ draft = false
 +++
 # <span style="text-align: center;">
 
-# Kacken Auf Wacken 
+# **Kacken Auf Wacken** 
 ## Das ultimative Kartenspiel für Metalheads
 
 <details>
@@ -13,10 +13,10 @@ draft = false
  
 ***
 
-Ihr seid auf dem Wacken Open Air und wollt zu euren Lieblingsbands abrocken. Auf den drei Bühnen „Harder“, „Louder“ und „Faster“ spielen unterschiedliche Bands gleichzeitig, die Entscheidung fällt also nicht immer leicht. Worauf habt ihr gerade Bock? Geht ihr zusammen oder alleine? Habt ihr genug Bier? Und was passiert, wenn ihr gerade jetzt kacken müsst?
+Ihr seid auf dem **Wacken Open Air** und wollt zu euren Lieblingsbands abrocken. Auf den drei Bühnen **„Harder“**, **„Louder“** und **„Faster“** spielen unterschiedliche Bands gleichzeitig, die Entscheidung fällt also nicht immer leicht. Worauf habt ihr gerade Bock? Geht ihr zusammen oder alleine? Habt ihr genug Bier? Und was passiert, wenn ihr gerade jetzt kacken müsst?
 Je mehr Songs ihr live seht, desto besser. 
 Wenn ihr andere Metalheads mitnehmt, noch besser. 
-Und: Es kann nie schaden, ein oder zwei Bier mitzunehmen.  
+Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.  
 
 ***
 </details>
@@ -26,19 +26,19 @@ Und: Es kann nie schaden, ein oder zwei Bier mitzunehmen.
  
 ***
 
-_24 „On Stage“-Karten_  
+_**24 „On Stage“-Karten**_  
  Das sind die Songs, die gerade performt werden.
 
-*53 „Rock!“-Karten*  
+_**53 „Rock!“-Karten**_  
 Das sind die Bands, die ihr gerade gerne live sehen würdet, mit euren Lieblingssongs
 
-*14 „Bierstand“-Karten*  
+_**14 „Bierstand“-Karten**_  
 Hier gibt’s Bier. Wenn man Glück hat. 
 
-*10 „WC“-Karten*  
+_**10 „WC“-Karten**_  
 Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
 
-*6 Karten mit Wacken-Bändchen*  
+_**6 Karten mit Wacken-Bändchen**_  
 Wie im richtigen Leben: Wer am Ende die meisten hat, gewinnt.
 Zerschneidet diese Karten und verwendet die Wacken-Bändchen als Siegpunkte.  
 
