@@ -3,7 +3,7 @@ title = "Main"
 date = "2024-10-16"
 draft = false
 +++
-# <span style="text-align: center;">
+<span style="text-align: center;">
 
 # **Kacken Auf Wacken** 
 ## Das ultimative Kartenspiel für Metalheads
@@ -26,8 +26,15 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
  
 ***
 
-_**24 „On Stage“-Karten**_  
- Das sind die Songs, die gerade performt werden.
+_**24 „On Stage“-Karten**_
+
+
+ Das sind die Songs, {{< img src="images/rueckseiten/OnStage_klein.png" alt="Rückseite On Stage" width="50">}}   die gerade performt werden.
+
+<div class="image-text-container">
+    <img src="images/rueckseiten/OnStage_klein.png" alt="Mein Bild">
+    <p>Hier ist der Text, der neben dem Bild steht. Ich hoffe, es gefällt dir!</p>
+</div>
 
 _**53 „Rock!“-Karten**_  
 Das sind die Bands, die ihr gerade gerne live sehen würdet, mit euren Lieblingssongs
