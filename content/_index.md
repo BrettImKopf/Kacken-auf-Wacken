@@ -3,90 +3,59 @@ title = "Main"
 date = "2024-10-16"
 draft = false
 +++
-<div style="text-align: center;">
+# <span style="text-align: center;">
 
 # Kacken Auf Wacken 
-
 ## Das ultimative Kartenspiel für Metalheads
 
-sdg
-sdfgsdf
-
-sdfgd
-
-sdfgd
-dfh
-
-
-dfsgyd
-gd
-gdf
-gdfg
-
-dfg
-dfggdf
-ghdf
-ghdfddf
-gdgd
-
-dfgd
-fg
-dfgadff
-sdfgdsdf
-dfgdf
-gdgdf
-gddf
-gdfgdf
-gdfgdfg
-ad
-gdgda
-gdfadfg
-adf
-adfgad
-adffg
-Kacken auf Wacken
-
-Worum geht’s?
-Ihr seid auf dem Wacken Open Air und wollt zu euren Lieblingsbands abrocken. Auf den drei Bühnen „Harder“, „Louder“ und „Faster“ spielen unterschiedliche Bands gleichzeitig, die Entscheidung fällt also nicht immer leicht. Worauf habt ihr gerade Bock? Geht ihr zusammen oder alleine? Habt ihr genug Bier? Und was passiert, wenn ihr gerade jetzt kacken müsst?
+<details>
+  <summary><span style="font-size: 2em;">Worum geht’s?</span></summary>
+  Ihr seid auf dem Wacken Open Air und wollt zu euren Lieblingsbands abrocken. Auf den drei Bühnen „Harder“, „Louder“ und „Faster“ spielen unterschiedliche Bands gleichzeitig, die Entscheidung fällt also nicht immer leicht. Worauf habt ihr gerade Bock? Geht ihr zusammen oder alleine? Habt ihr genug Bier? Und was passiert, wenn ihr gerade jetzt kacken müsst?
 Je mehr Songs ihr live seht, desto besser. 
 Wenn ihr andere Metalheads mitnehmt, noch besser. 
 Und: Es kann nie schaden, ein oder zwei Bier mitzunehmen.
+</details>
 
+<details>
+  <summary><span style="font-size: 2em;">Zubehör</span></summary>
 
-
-Zubehör
- 
- 24 „On Stage“-Karten
+*24 „On Stage“-Karten*  
  Das sind die Songs, die gerade performt werden.
 
- 53 „Rock!“-Karten 
+*53 „Rock!“-Karten*  
 Das sind die Bands, die ihr gerade gerne live sehen würdet, mit euren Lieblingssongs
 
- 14 „Bierstand“-Karten
+*14 „Bierstand“-Karten*  
 Hier gibt’s Bier. Wenn man Glück hat. 
 
-  10 „WC“-Karten
+*10 „WC“-Karten*  
 Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
 
-⦁	6 Karten mit Wacken-Bändchen
+*6 Karten mit Wacken-Bändchen*  
 Wie im richtigen Leben: Wer am Ende die meisten hat, gewinnt.
 Zerschneidet diese Karten und verwendet die Wacken-Bändchen als Siegpunkte.
+</details>
 
-
-Spielaufbau
-Mischt die Stapel mit den 4 unterschiedlichen Kartenarten gut durch und legt sie als 4 verdeckte Nachziehstapel aus.
+<details>
+  <summary><span style="font-size: 2em;">Spielaufbau</span></summary>
+
+Mischt die Stapel mit den 4 unterschiedlichen Kartenarten gut durch und legt sie als 4 verdeckte Nachziehstapel aus.  
 Legt die Wacken-Bändchen neben das Spiel. Das sind eure Gewinnpunkte.
 
-Verteilt die Bands auf die 3 Bühnen „Faster“ (links), „Louder“ (Mitte) und „Harder“ (rechts)  folgendermaßen:
-⦁	Zieht von oben jeweils eine „On Stage“-Karte
-⦁	Wenn die abgebildete Band bereits ausliegt, legt die gezogene Karte dazu
-⦁	Wenn nicht, legt die gezogene Karte auf die nächste freie Bühne, wenn es eine gibt
-⦁	Macht das so lange, bis eine Karte mit der vierten Band gezogen wird. Diese legt ihr offen auf den „On Stage“-Stapel ab (das ist der Backstage-Bereich, wo sich die Band auf ihren Auftritt vorbereitet).
+## Baut die Bühnen auf  
+Verteilt die Bands auf die 3 Bühnen „Faster“ (links), „Louder“ (Mitte) und „Harder“ (rechts)  folgendermaßen:  
+*Zieht von oben jeweils eine „On Stage“-Karte*  
+*Wenn die abgebildete Band bereits ausliegt, legt die gezogene Karte dazu*  
+*Wenn nicht, legt die gezogene Karte auf die nächste freie Bühne, wenn es eine gibt*  
+Macht das so lange, bis eine Karte mit der vierten Band gezogen wird. Diese legt ihr offen auf den „On Stage“-Stapel ab (das ist der Backstage-Bereich, wo sich die Band auf ihren Auftritt vorbereitet).
 
 
 Im Ergebnis sind das drei offen ausliegende Kartenstapel mit jeweils 1 bis maximal vier Karten. Das Ganze sieht dann etwa so aus:
  
-
+
+
+</details>
+
 Spielablauf
 Der Spieler mit den längsten Haaren fängt an. 
 Regeln für einen Spielzug (genauere Beschreibung der Aktionen siehe „Aktionen“):
