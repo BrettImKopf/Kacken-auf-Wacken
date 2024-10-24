@@ -27,59 +27,26 @@ EnableThemeToggle = "true"
 	EnableThemeToggle = "true"
 	
   # Subtitle for home
-  homeSubtitle = "A simple and beautiful blog"
+  homeSubtitle = "Die Spielregeln"
 
 	
 [params.logo]
 	path = "images/logo.png"
-    alt = "Kacjen auf Wacken"
- [[menu.main]]
-  identifier = "story"
-  name = "Story"
-  link = "#story"
-  url = "/story"
-  weight = 1
-[[menu.main]]
-  identifier = "zubehoer"
-  name = "Zubehör"
-  link = "#zubehoer"
-  url = "/zubehoer"
-  weight = 2
-[[menu.main]]
-  identifier = "vorbereitung"
-  name = "Vorbereitung"
-  link = "#vorbereitung"
-  url = "/vorbereitung"
-  weight = 3
-[[menu.main]]
-  identifier = "quickstart"
-  name = "Kurzanleitung"
-  link = "#quickstart"
-  url = "/quickstart"
-  weight = 4
-  [menu.main.params]
-  caption = "Schnelleinstieg für Eilige"
-[[menu.main]]
-  identifier = "rules"
-  name = "Spielregeln"
-  link = "#rules"
-  url = "/rules"
-  weight = 5
-  [menu.main.params]
-  caption = "Die Regeln im Detail"
+    alt = "Kacken auf Wacken"
+ 
 [[menu.main]]
   identifier = "faq"
   name = "FAQs"
   link = "#faq"
   url = "/faq"
-  weight = 6
+  weight = 1
   [menu.main.params]
   caption = "Fragen und Antworten"
 [[menu.main]]
   identifier = "main"
-  name = "Startseite"
+  name = "Spielregeln"
   link = "#main"
   url = "/"
-  weight = 7
+  weight = 2
   [menu.main.params]
-  caption = "Zurück zur Hauptseite"
+  caption = "Zurück zu den Spielregeln"
