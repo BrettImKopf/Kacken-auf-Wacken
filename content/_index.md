@@ -10,7 +10,7 @@ draft = false
 
 | Katze                   | Hund                    | Vogel                   |
 |-------------------------|-------------------------|-------------------------|
-| ![Katze](images/rueckseiten/OnStage_klein.png) | ![Hund](link-zu-hund.jpg) | ![Vogel](link-zu-vogel.jpg) |
+| ![Katze](images/rueckseiten/OnStage_klein.png) | ![Hund](images/rueckseiten/OnStage_klein.png) | ![Vogel](images/rueckseiten/OnStage_klein.png) |
 
 
 <details>
