@@ -8,11 +8,10 @@ draft = false
 # **Kacken Auf Wacken** 
 ## Das ultimative Kartenspiel für Metalheads
 
-| Name    | Alter | Stadt       |
-|:------- |:-----:|-------------:|
-| ![text](images/rueckseiten/OnStage_klein.png) | 30    | Berlin      |
-| Max     | 25    | München     |
-| Laura   | 28    | Hamburg     |
+| Katze                   | Hund                    | Vogel                   |
+|-------------------------|-------------------------|-------------------------|
+| ![Katze](images/rueckseiten/OnStage_klein.png) | ![Hund](link-zu-hund.jpg) | ![Vogel](link-zu-vogel.jpg) |
+
 
 <details>
   <summary><span style="font-size: 1.8em;">Worum geht’s?</span></summary>
