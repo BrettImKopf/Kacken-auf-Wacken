@@ -7,3 +7,19 @@ summary {
   font-size: 2.625rem;
 }
 
+table {
+    display: table;
+    box-sizing: border-box;
+    text-indent: initial;
+    unicode-bidi: isolate;
+    border-spacing: 20px;
+    border-color: gray;
+	table-layout: fixed;
+}
+
+.kaw-card-sample {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  max-width: 90vw;
+}

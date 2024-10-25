@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Main on Kacken auf Wacken</title>
-    <link>https://brettimkopf.github.io/Kacken-auf-Wacken/</link>
+    <link>http://localhost:1313/Kacken-auf-Wacken/</link>
     <description>Recent content in Main on Kacken auf Wacken</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 16 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://brettimkopf.github.io/Kacken-auf-Wacken/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Kacken-auf-Wacken/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/faq/</link>
+      <link>http://localhost:1313/Kacken-auf-Wacken/faq/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/faq/</guid>
+      <guid>http://localhost:1313/Kacken-auf-Wacken/faq/</guid>
       <description>&lt;details&gt;&#xD;&#xA;  &lt;summary&gt;&lt;span style=&#34;font-size: 2em;&#34;&gt;Click me&lt;/span&gt;&lt;/summary&gt;&#xD;&#xA;  &lt;p&gt;bla&lt;/p&gt;&#xD;&#xA;  &lt;details&gt;&#xD;&#xA;  &lt;summary&gt;&lt;span style=&#34;font-size: 2em;&#34;&gt;Click me&lt;/span&gt;&lt;/summary&gt;&#xD;&#xA;  &lt;p&gt;bla&lt;/p&gt;&#xD;&#xA;&lt;/details&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/quickstart/</link>
+      <link>http://localhost:1313/Kacken-auf-Wacken/quickstart/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/quickstart/</guid>
-      <description>&lt;h1 id=&#34;quickstart&#34;&gt;Kurzanleitung:&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;https://brettimkopf.github.io/Kacken-auf-Wacken/Kacken-auf-Wacken/vorbereitung/#vorbereitung&#34;&gt;Legt die Karten aus&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;zug&#34;&gt;Ein Zug sieht so aus:&lt;/h2&gt;&#xD;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;Zuerst guckst du, ob du kacken musst&lt;/em&gt;&lt;/strong&gt;. &lt;br/&gt;Wenn ja, rennst du zur Toilette. &lt;br/&gt;&lt;strong&gt;Egal, ob ein Klo frei ist oder nicht: In jedem Fall ist dein Zug anschließend beendet.&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;&#xA;&lt;li&gt;Wenn du nicht gerade kacken musst, &lt;strong&gt;musst&lt;/strong&gt; du eine von zwei Aktionen durchführen:&#xA;&lt;br/&gt;&lt;strong&gt;Bier holen (wenn du noch eine Hand frei hast)&lt;/strong&gt;&#xA;&lt;br/&gt;oder&#xA;&lt;br/&gt;&lt;strong&gt;&amp;ldquo;Rock!&amp;quot;-Karte ziehen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;br/&gt; Wenn du dabei eine &amp;ldquo;Kacken&amp;rdquo;-Karte ziehst, legst du sie offen vor dir ab &lt;br/&gt;&lt;strong&gt;und dein Zug ist sofort beendet.&lt;/strong&gt;&#xA;&lt;br/&gt;&lt;br/&gt;3. Wenn nicht, kannst du jetzt überlegen, ob du zu einer der Bühnen gehst und abrockst.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/Kacken-auf-Wacken/quickstart/</guid>
+      <description>&lt;h1 id=&#34;quickstart&#34;&gt;Kurzanleitung:&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/Kacken-auf-Wacken/Kacken-auf-Wacken/vorbereitung/#vorbereitung&#34;&gt;Legt die Karten aus&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;zug&#34;&gt;Ein Zug sieht so aus:&lt;/h2&gt;&#xD;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;&lt;em&gt;Zuerst guckst du, ob du kacken musst&lt;/em&gt;&lt;/strong&gt;. &lt;br/&gt;Wenn ja, rennst du zur Toilette. &lt;br/&gt;&lt;strong&gt;Egal, ob ein Klo frei ist oder nicht: In jedem Fall ist dein Zug anschließend beendet.&lt;/strong&gt;&lt;br/&gt;&lt;br/&gt;&lt;/li&gt;&#xA;&lt;li&gt;Wenn du nicht gerade kacken musst, &lt;strong&gt;musst&lt;/strong&gt; du eine von zwei Aktionen durchführen:&#xA;&lt;br/&gt;&lt;strong&gt;Bier holen (wenn du noch eine Hand frei hast)&lt;/strong&gt;&#xA;&lt;br/&gt;oder&#xA;&lt;br/&gt;&lt;strong&gt;&amp;ldquo;Rock!&amp;quot;-Karte ziehen&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;br/&gt; Wenn du dabei eine &amp;ldquo;Kacken&amp;rdquo;-Karte ziehst, legst du sie offen vor dir ab &lt;br/&gt;&lt;strong&gt;und dein Zug ist sofort beendet.&lt;/strong&gt;&#xA;&lt;br/&gt;&lt;br/&gt;3. Wenn nicht, kannst du jetzt überlegen, ob du zu einer der Bühnen gehst und abrockst.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://brettimkopf.github.io/Kacken-auf-Wacken/vorbereitung/</link>
+      <link>http://localhost:1313/Kacken-auf-Wacken/vorbereitung/</link>
       <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://brettimkopf.github.io/Kacken-auf-Wacken/vorbereitung/</guid>
-      <description>&lt;div class=&#34;content-container&#34;&gt;&#xD;&#xA;&lt;h1 id=&#34;vorbereitung&#34;&gt;Vorbereitung:&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;vorbereitung&#34;&gt;So sieht der Holy Ground aus:&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wie du die Bühnen und den Backstage-Bereich auslegst, wird &lt;a href=&#34;../tutorials/#buehne&#34;&gt;hier&lt;/a&gt; beschrieben&lt;/li&gt;&#xA;&lt;li&gt;Zum Seitenanfang kommst du &lt;a href=&#34;https://brettimkopf.github.io/Kacken-auf-Wacken/Kacken-auf-Wacken/vorbereitung/#leg-die-karten-so-aus&#34;&gt;hier&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/Kacken-auf-Wacken/vorbereitung/</guid>
+      <description>&lt;div class=&#34;content-container&#34;&gt;&#xD;&#xA;&lt;h1 id=&#34;vorbereitung&#34;&gt;Vorbereitung:&lt;/h1&gt;&#xD;&#xA;&lt;h2 id=&#34;vorbereitung&#34;&gt;So sieht der Holy Ground aus:&lt;/h2&gt;&#xD;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Wie du die Bühnen und den Backstage-Bereich auslegst, wird &lt;a href=&#34;../tutorials/#buehne&#34;&gt;hier&lt;/a&gt; beschrieben&lt;/li&gt;&#xA;&lt;li&gt;Zum Seitenanfang kommst du &lt;a href=&#34;http://localhost:1313/Kacken-auf-Wacken/Kacken-auf-Wacken/vorbereitung/#leg-die-karten-so-aus&#34;&gt;hier&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

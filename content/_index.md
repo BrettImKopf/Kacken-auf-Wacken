@@ -39,13 +39,11 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 
  _**Das sind die Songs, die gerade performt werden.**_  
 
-<div style="display: flex;
-            justify-content: center;
-			width: 100vw">                        
+<div class="kaw-card-sample">                        
 
-| ![Hund](images/rueckseiten/OnStage_klein.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+| ![Hund](images/vorderseiten/OnStage-Iron-Basin-AssesHigh.png) | ![Hund](images/rueckseiten/OnStage.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Beispiel Vorderseite_| _Rückseite_   |
+| _Vorderseite_ | _Beispiel Rückseite_   |
 
 </div>
 
@@ -57,13 +55,11 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 <details>
   <summary>24 „Rock!“-Karten</summary>
 
-<div style="display: flex;
-            justify-content: center;
-			width: 100vw">                        
+<div class="kaw-card-sample">                         
 
-| ![Hund](images/rueckseiten/Rock.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+| ![Hund](images/vorderseiten/ACWC-WhoMadePoo.png) | ![Hund](images/rueckseiten/Rock.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Beispiel Vorderseite_| _Rückseite_   |
+| _Vorderseite_ | _Beispiel Rückseite_   |
 
 </div>
 
@@ -74,13 +70,11 @@ Das sind die Bands, die ihr gerade gerne live sehen würdet, mit euren Lieblings
 <details>
   <summary>24 „Bierstand“-Karten</summary>
 
-<div style="display: flex;
-            justify-content: center;
-			width: 100vw">                        
+<div class="kaw-card-sample">                          
 
-| ![Hund](images/rueckseiten/OnStage_klein.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+| ![Hund](images/vorderseiten/Bier.png) | ![Hund](images/rueckseiten/Bierstand.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Beispiel Vorderseite_| _Rückseite_   |
+| _Vorderseite_ | _Beispiel Rückseite_   |
 
 </div>
 
@@ -92,13 +86,11 @@ Hier gibt’s Bier. Wenn man Glück hat.
 <details>
   <summary>24 „WC“-Karten</summary>
 
-<div style="display: flex;
-            justify-content: center;
-			width: 100vw">                        
+<div class="kaw-card-sample">                        
 
-| ![Hund](images/rueckseiten/OnStage_klein.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+| ![Hund](images/vorderseiten/Frei.png) | ![Hund](images/rueckseiten/WC.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Beispiel Vorderseite_| _Rückseite_   |
+| _Vorderseite_ | _Beispiel Rückseite_   |
 
 </div>
 
@@ -109,13 +101,11 @@ Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
 <details>
   <summary>6 Karten mit Wacken-Bändchen</summary>
 
-<div style="display: flex;
-            justify-content: center;
-			width: 100vw">                        
+<div class="kaw-card-sample">                         
 
-| ![Hund](images/rueckseiten/OnStage_klein.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+| ![Hund](images/vorderseiten/4.png) | ![Hund](images/vorderseiten/4.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Beispiel Vorderseite_| _Rückseite_   |
+| _Vorderseite_ | _Beispiel Rückseite_   |
 
 </div>
 
