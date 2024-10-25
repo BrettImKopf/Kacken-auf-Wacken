@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/</loc>
+    <lastmod>2024-10-17T16:55:05+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/Kacken-auf-Wacken/faq/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -35,8 +38,6 @@
                 hreflang="en"
                 href="http://localhost:1313/Kacken-auf-Wacken/categories/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/Kacken-auf-Wacken/tags/</loc>
     <xhtml:link

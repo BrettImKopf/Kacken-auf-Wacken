@@ -3,20 +3,23 @@ title = "Main"
 date = "2024-10-16"
 draft = false
 +++
-<span style="text-align: center;">
+
 
 # **Kacken Auf Wacken** 
-## Das ultimative Kartenspiel für Metalheads
 
-| Katze                   | Hund                    | Vogel                   |
-|-------------------------|-------------------------|-------------------------|
-| hhhhh jjj| ![Hund](images/rueckseiten/OnStage_klein.png) | ![Vogel](images/rueckseiten/OnStage_klein.png) |
+<div style="display: flex;
+            justify-content: center;
+			width: 100vw">
 
+## Das ultimative Kartenspiel für Metalheads  
+
+</div>
 
 <details>
-  <summary><span style="font-size: 1.8em;">Worum geht’s?</span></summary>
+  <summary>Worum geht’s?</summary>
  
 ***
+
 
 Ihr seid auf dem **Wacken Open Air** und wollt zu euren Lieblingsbands abrocken. Auf den drei Bühnen **„Harder“**, **„Louder“** und **„Faster“** spielen unterschiedliche Bands gleichzeitig, die Entscheidung fällt also nicht immer leicht. Worauf habt ihr gerade Bock? Geht ihr zusammen oder alleine? Habt ihr genug Bier? Und was passiert, wenn ihr gerade jetzt kacken müsst?
 Je mehr Songs ihr live seht, desto besser. 
@@ -27,39 +30,107 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 </details>
 
 <details>
-  <summary><span style="font-size: 2em;">Zubehör</span></summary>
+  <summary>Zubehör</summary>
  
 ***
 
-_**24 „On Stage“-Karten**_
+<details>
+  <summary>24 „On Stage“-Karten</summary>
 
+ _**Das sind die Songs, die gerade performt werden.**_  
 
- Das sind die Songs, {{< img src="images/rueckseiten/OnStage_klein.png" alt="Rückseite On Stage" width="50">}}   die gerade performt werden.
+<div style="display: flex;
+            justify-content: center;
+			width: 100vw">                        
 
-<div class="image-text-container">
-    <img src="images/rueckseiten/OnStage_klein.png" alt="Mein Bild">
-    <p>Hier ist der Text, der neben dem Bild steht. Ich hoffe, es gefällt dir!</p>
+| ![Hund](images/rueckseiten/OnStage_klein.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Beispiel Vorderseite_| _Rückseite_   |
+
 </div>
 
-_**53 „Rock!“-Karten**_  
+
+
+</details>
+
+
+<details>
+  <summary>24 „Rock!“-Karten</summary>
+
+<div style="display: flex;
+            justify-content: center;
+			width: 100vw">                        
+
+| ![Hund](images/rueckseiten/Rock.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Beispiel Vorderseite_| _Rückseite_   |
+
+</div>
+
 Das sind die Bands, die ihr gerade gerne live sehen würdet, mit euren Lieblingssongs
 
-_**14 „Bierstand“-Karten**_  
+</details>
+
+<details>
+  <summary>24 „Bierstand“-Karten</summary>
+
+<div style="display: flex;
+            justify-content: center;
+			width: 100vw">                        
+
+| ![Hund](images/rueckseiten/OnStage_klein.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Beispiel Vorderseite_| _Rückseite_   |
+
+</div>
+
 Hier gibt’s Bier. Wenn man Glück hat. 
 
-_**10 „WC“-Karten**_  
-Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
+</details>
 
-_**6 Karten mit Wacken-Bändchen**_  
+
+<details>
+  <summary>24 „WC“-Karten</summary>
+
+<div style="display: flex;
+            justify-content: center;
+			width: 100vw">                        
+
+| ![Hund](images/rueckseiten/OnStage_klein.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Beispiel Vorderseite_| _Rückseite_   |
+
+</div>
+
+Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
+ 
+</details>
+
+<details>
+  <summary>6 Karten mit Wacken-Bändchen</summary>
+
+<div style="display: flex;
+            justify-content: center;
+			width: 100vw">                        
+
+| ![Hund](images/rueckseiten/OnStage_klein.png) | ![Hund](images/rueckseiten/OnStage_klein.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Beispiel Vorderseite_| _Rückseite_   |
+
+</div>
+
 Wie im richtigen Leben: Wer am Ende die meisten hat, gewinnt.
 Zerschneidet diese Karten und verwendet die Wacken-Bändchen als Siegpunkte.  
+
+</details>
+
 
 ***
 
 </details>
 
 <details>
-  <summary><span style="font-size: 2em;">Spielaufbau</span></summary>
+  <summary>Spielaufbau</summary>
  
 ***
 
@@ -76,13 +147,14 @@ Macht das so lange, bis eine Karte mit der vierten Band gezogen wird. Diese legt
 
 Im Ergebnis sind das drei offen ausliegende Kartenstapel mit jeweils 1 bis maximal vier Karten. Das Ganze sieht dann etwa so aus:
  
-{{< img src="images/Spielfeld.png" alt="Example image." >}}
-
+ 
+ ![Spielfeld](images/Spielfeld.png)
+ 
 ***
 
 </details>
 <details>
-  <summary><span style="font-size: 2em;">Spielablauf</span></summary>
+  <summary>Spielablauf</summary>
  
 ***
 
@@ -103,7 +175,7 @@ Wer die meisten Wacken-Bändchen hat, gewinnt.
 
 </details>
 <details>
-  <summary><span style="font-size: 2em;">Aktionen</span></summary>
+  <summary>Aktionen</summary>
  
 ***
 
@@ -165,7 +237,7 @@ Spieler B hat nur eine passende „Rock!“-Karte und kein Lieblingslied („The
 
 </details>
 <details>
-  <summary><span style="font-size: 2em;">Ereignisse</span></summary>
+  <summary>Ereignisse</summary>
  
 ***
 
