@@ -35,7 +35,7 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 ***
 
 <details>
-  <summary>24 „On Stage“-Karten</summary>
+  <summary class="kaw-summary-2">24 „On Stage“-Karten</summary>
 
  _**Das sind die Songs, die gerade performt werden.**_  
 
@@ -43,7 +43,7 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 
 | ![Hund](images/vorderseiten/OnStage-Iron-Basin-AssesHigh.png) | ![Hund](images/rueckseiten/OnStage.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Vorderseite_ | _Beispiel Rückseite_   |
+| _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
 
@@ -53,13 +53,13 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 
 
 <details>
-  <summary>24 „Rock!“-Karten</summary>
+  <summary class="kaw-summary-2">24 „Rock!“-Karten</summary>
 
 <div class="kaw-card-sample">                         
 
 | ![Hund](images/vorderseiten/ACWC-WhoMadePoo.png) | ![Hund](images/rueckseiten/Rock.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Vorderseite_ | _Beispiel Rückseite_   |
+| _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
 
@@ -68,13 +68,13 @@ Das sind die Bands, die ihr gerade gerne live sehen würdet, mit euren Lieblings
 </details>
 
 <details>
-  <summary>24 „Bierstand“-Karten</summary>
+  <summary class="kaw-summary-2">24 „Bierstand“-Karten</summary>
 
 <div class="kaw-card-sample">                          
 
 | ![Hund](images/vorderseiten/Bier.png) | ![Hund](images/rueckseiten/Bierstand.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Vorderseite_ | _Beispiel Rückseite_   |
+| _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
 
@@ -84,13 +84,13 @@ Hier gibt’s Bier. Wenn man Glück hat.
 
 
 <details>
-  <summary>24 „WC“-Karten</summary>
+  <summary class="kaw-summary-2">24 „WC“-Karten</summary>
 
 <div class="kaw-card-sample">                        
 
 | ![Hund](images/vorderseiten/Frei.png) | ![Hund](images/rueckseiten/WC.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Vorderseite_ | _Beispiel Rückseite_   |
+| _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
 
@@ -99,13 +99,13 @@ Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
 </details>
 
 <details>
-  <summary>6 Karten mit Wacken-Bändchen</summary>
+  <summary class="kaw-summary-2">6 Karten mit Wacken-Bändchen</summary>
 
 <div class="kaw-card-sample">                         
 
 | ![Hund](images/vorderseiten/4.png) | ![Hund](images/vorderseiten/4.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Vorderseite_ | _Beispiel Rückseite_   |
+| _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
 

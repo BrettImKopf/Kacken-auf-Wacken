@@ -17,9 +17,17 @@ table {
 	table-layout: fixed;
 }
 
+table td, table th {
+  max-width: 200px;      /* Maximale Breite für alle Tabellenzellen */
+}
+
 .kaw-card-sample {
   padding: 20px;
   display: flex;
   justify-content: center;
-  max-width: 90vw;
+  width: 100%;
+}
+
+.kaw-summary-2 {
+	font-size: 2.0rem;
 }
