@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/de/categories/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Kacken-auf-Wacken/categories/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/Kacken-auf-Wacken/de/categories/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/de/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/de/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Kacken-auf-Wacken/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/Kacken-auf-Wacken/de/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/de/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/de/tags/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Kacken-auf-Wacken/tags/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/Kacken-auf-Wacken/de/tags/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/de/tags/"
                 />
   </url>
 </urlset>

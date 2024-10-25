@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/posts/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/posts/</loc>
     <lastmod>2024-10-17T16:55:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/faq/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/faq/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/quickstart/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/quickstart/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/vorbereitung/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/vorbereitung/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/</loc>
     <lastmod>2024-10-16T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/Kacken-auf-Wacken/de/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Kacken-auf-Wacken/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/categories/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/Kacken-auf-Wacken/de/categories/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Kacken-auf-Wacken/categories/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/Kacken-auf-Wacken/tags/</loc>
+    <loc>https://brettimkopf.github.io/Kacken-auf-Wacken/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/Kacken-auf-Wacken/de/tags/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/Kacken-auf-Wacken/tags/"
+                href="https://brettimkopf.github.io/Kacken-auf-Wacken/tags/"
                 />
   </url>
 </urlset>
