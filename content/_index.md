@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-# **Kacken Auf Wacken** 
+# Kacken Auf Wacken 
 
 <div style="display: flex;
             justify-content: center;
