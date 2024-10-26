@@ -37,7 +37,13 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 <details>
   <summary class="kaw-summary-2">24 „On Stage“-Karten</summary>
 
- _**Das sind die Songs, die gerade performt werden.**_  
+ **Das sind die Songs, die gerade performt werden.  
+Hier spielt z.B. gerade die Band "Iron Basin" ihren Song "Asses High".**  
+ 
+<div class="kaw-explanation">
+    Diese Karten liegen auf einer der drei Bühnen "Faster", "Louder" und "Harder"
+</div>
+
 
 <div class="kaw-card-sample">                        
 
@@ -54,6 +60,10 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 
 <details>
   <summary class="kaw-summary-2">24 „Rock!“-Karten</summary>
+  
+_**Das sind die Bands, die ihr gerade gerne live sehen würdet, mit euren Lieblingssongs.  
+Wenn ihr z.B. die abgebildete Karte habt, habt ihr total Bock, zur Band "AC/WC" abzurocken.  
+Wenn die dann auch noch euren Lieblingssong "Who Made Poo" spielen, würde sich das nochmal auf den Spaßfaktor auswirken.**_
 
 <div class="kaw-card-sample">                         
 
@@ -63,7 +73,7 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 
 </div>
 
-Das sind die Bands, die ihr gerade gerne live sehen würdet, mit euren Lieblingssongs
+
 
 </details>
 
