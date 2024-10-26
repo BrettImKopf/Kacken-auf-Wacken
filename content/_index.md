@@ -5,11 +5,9 @@ draft = false
 +++
 
 
-# Kacken Auf Wacken 
-
+# Kacken Auf Wacken
 ## Das ultimative Kartenspiel für Metalheads  
-
-</div>
+  
 
 <details>
   <summary>Worum geht’s?</summary>
