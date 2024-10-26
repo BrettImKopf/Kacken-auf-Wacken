@@ -41,7 +41,7 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 Hier spielt z.B. gerade die Band "Iron Basin" ihren Song "Asses High".**  
  
 <div class="kaw-explanation">
-    Diese Karten liegen auf einer der drei Bühnen "Faster", "Louder" und "Harder"
+    Diese Karten liegen jeweils auf einer der drei Bühnen "Faster", "Louder" und "Harder"; außerdem liegt eine im Backstagebereich.
 </div>
 
 
