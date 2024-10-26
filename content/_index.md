@@ -37,11 +37,13 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 <details>
   <summary class="kaw-summary-2">24 „On Stage“-Karten</summary>
 
- **Das sind die Songs, die gerade performt werden.  
-Hier spielt z.B. gerade die Band "Iron Basin" ihren Song "Asses High".**  
+<div class="kaw-card-brief"> 
+Das sind die Songs, die gerade performt werden.  
+Hier spielt z.B. gerade die Band <strong>"Iron Basin"</strong> ihren Song <strong>"Asses High"</strong>.
+</div>
  
-<div class="kaw-explanation">
-    Diese Karten liegen jeweils auf einer der drei Bühnen "Faster", "Louder" und "Harder"; außerdem liegt eine im Backstagebereich.
+<div class="kaw-game-hint">
+    Diese Karten liegen jeweils auf einer der drei Bühnen <em>"Faster"</em>, <em>"Louder"</em> und <em>"Harder"</em>; außerdem liegt eine im <em>Backstagebereich</em>.
 </div>
 
 
