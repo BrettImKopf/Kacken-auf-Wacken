@@ -219,10 +219,10 @@ Der Spieler mit den längsten Haaren fängt an, danach wird im Uhrzeigersinn wei
   <summary class="kaw-summary-2" id="kacken">Kacken</summary>
   
 <div class="kaw-game-hint" style="text-align: left" >
-Kack-Regel: Ziehst du eine „Kacken“-Karte, egal wann und von welchem Stapel (sie sind in den Stapeln „Rock!“ und „Bierstand“ versteckt), legst du diese Karte offen vor dich hin. Dein Zug ist dann sofort beendet.
-Du kannst ab jetzt nichts anderes tun als dein Glück am WC zu versuchen, bis du die Karte wieder los bist. Du ziehst keine "Rock!" - oder "Bier" - Karten.
-Du kannst auch nicht mitgehen, wenn jemand abrockt. 
-Beim "Bier alle" - Ereignis verlierst du aber trotzdem dein Bier.
+Kack-Regel: Zieht ihr eine „Kacken“-Karte, egal wann und von welchem Stapel (sie sind in den Stapeln „Rock!“ und „Bierstand“ versteckt), legt ihr diese Karte offen vor euch hin. Euer Zug ist dann sofort beendet.
+Ihr könnt ab jetzt nichts anderes tun als euer Glück am WC zu versuchen, bis ihr die Karte wieder los seid. Ihr zieht keine "Rock!" - oder "Bier" - Karten.
+Ihr könnt auch nicht mitgehen, wenn jemand abrockt. 
+Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
 </div>
 </details>
 
@@ -232,9 +232,9 @@ Beim "Bier alle" - Ereignis verlierst du aber trotzdem dein Bier.
 
 <div class="kaw-game-hint" style="text-align: left" >
  
-1. Du musst zuerst entweder eine "Rock!" - oder eine "Bier" - Karte ziehen.  
+1. Ihr müsst zuerst entweder eine "Rock!" - oder eine "Bier" - Karte ziehen.  
 
-2. Wenn du dann mindestens 1 Bier hast, und wenn auf einer der Bühnen eine Band spielt, die du auf der Hand hast, kannst du abrocken!
+2. Wenn ihr dann mindestens 1 Bier habt, und wenn auf einer der Bühnen eine Band spielt, die ihr auf der Hand habt, könnt ihr abrocken!
 </div>
 
 
@@ -243,9 +243,9 @@ Beim "Bier alle" - Ereignis verlierst du aber trotzdem dein Bier.
 <details>
 <summary class="kaw-summary-2" id="abrocken">Abrocken</summary>
 
-- Als erstes legst du dein Bier (oder deine zwei Bier) vor die Bühne, auf der die Band spielt, die du dir ansehen willst. 
+- Als erstes legt ihr euer Bier (oder eure zwei Bier) vor die Bühne, auf der die Band spielt, die ihr euch ansehen wollt. 
  
-- Alle Mitspieler, die ebenfalls passende "Rock!" - Karten und mindestens ein Bier auf der Hand haben, können dann mitkommen. Sie legen ihre Biere zu deinem Bier vor die Bühne.
+- Alle Mitspieler, die ebenfalls passende "Rock!" - Karten und mindestens ein Bier auf der Hand haben, können dann mitkommen. Sie legen ihre Biere zu eurem Bier vor die Bühne.
 
 - Wenn das alle getan haben, wird der "Bierfaktor" errechnet: Die Anzahl der Songs, die die betreffende Band spielt, mal der Anzahl an Bieren, die jetzt vor der Bühne liegen.  
 
@@ -270,8 +270,8 @@ Siegpunkte = Bierfaktor x Metalfaktor
 Anschließend kommt die Band aus dem Backstagebereich auf die frei gewordene Bühne, und es wird wie beim Spielaufbau verfahren (so lange eine neue "On Stage" - Karte ziehen, bis ein vierte Band kommt, die dann wieder im Backstage - Bereich wartet.
 
 <div class="kaw-game-hint" style="text-align: left" >
-Wenn ein Spieler mitkommen möchte, der zwar eine passende "Rock!" - Karte, aber kein Bier hat, kannst du versuchen, ihm noch schnell eins vom Bierstand zu holen.
-Wenn du erfolgreich bist, kann er mitkommen (dadurch erhöhen sich auch deine Gewinnpunkte). Wenn du am Bierstand "warten" musst, kann er nicht mitkommen. Die Kack-Regel gilt natürlich auch hier: Wenn du eine "Kacken" - Karte ziehst nimmt sich jeder sein Bier zurück und der nächste Spieler ist dran.
+Wenn ein Spieler mitkommen möchte, der zwar eine passende "Rock!" - Karte, aber kein Bier hat, könnt ihr versuchen, ihm noch schnell eins vom Bierstand zu holen.
+Wenn ihr erfolgreich seid, kann er mitkommen (dadurch erhöhen sich auch eure Gewinnpunkte). Wenn ihr am Bierstand "warten" müsst, kann er nicht mitkommen. Die Kack-Regel gilt natürlich auch hier: Wenn ihr eine "Kacken" - Karte zieht, nimmt sich jeder sein Bier zurück und der nächste Spieler ist dran.
 </div>
 
 </details>
@@ -303,17 +303,17 @@ Hier findet ihr für alle Aktionen nochmal eine detailliertere Beschreibung, fal
 
 <details>
 <summary class="kaw-summary-2" id="bier-holen">Bier holen</summary>
-Zieh die oberste Karte vom Bierstand. Wenn du Glück hast, bekommst du ein Bier. Wenn nicht, legst du die Karte vor dem Bierstand ab.
-Da du nur zwei Hände hast, kannst du maximal zwei Bier auf der Hand haben. Spieler mit weniger als zwei Händen dürfen natürlich auch zwei Bier haben.
+Zieht die oberste Karte vom Bierstand. Wenn ihr Glück habt, bekommt ihr ein Bier. Wenn nicht, legt ihr die Karte vor dem Bierstand ab.
+Da ihr nur zwei Hände habt, könnt ihr maximal zwei Bier auf der Hand haben. Solltest ihr weniger als zwei Hände haben, könnt ihr natürlich trotzdem zwei Bier haben.
 </details>
 <details>
 <summary class="kaw-summary-2" id="bock-auf-metal">Bock auf Metal</summary>
-Du ziehst die oberste „Rock!“-Karte und nimmst sie auf die Hand. Du kannst beliebig viele „Rock!“-Karten auf der Hand haben. Die „Rock!“-Karten, die du auf der Hand hast, bilden die Bands ab, auf die du gerade Bock hast. 
-Die Songs auf den Karten sind eure Lieblingssongs. Wenn die Band auf der Bühne diesen Song spielt, wenn du abrockst, erhöht das dan Metalfaktor und damit deine Siegpunkte.
+Ihr zieht die oberste „Rock!“-Karte und nehmt sie auf die Hand. Ihr könnt beliebig viele „Rock!“-Karten auf der Hand haben. Die „Rock!“-Karten, die ihr auf der Hand habt, bilden die Bands ab, auf die ihr gerade Bock habt. 
+Die Songs auf den Karten sind eure Lieblingssongs. Wenn die Band auf der Bühne diesen Song spielt, wenn ihr abrockt, erhöht das den Metalfaktor und damit eure Siegpunkte.
 </details>
 <details>
 <summary class="kaw-summary-2" id="aktion-abrocken">Abrocken</summary>
-Siehe oben. Diese Aktion bringt dir die begehrten Wacken-Bändchen. Wenn Leute mitkommen, ist das gut für dich, denn dann ist mehr Bier da und der Bierfaktor erhöht sich. So könnt ihr euch vielleicht von anderen Spielern absetzen.
+Siehe oben. Diese Aktion bringt euch die begehrten Wacken-Bändchen. Wenn Leute mitkommen, ist das gut für euch, denn dann ist mehr Bier da und der Bierfaktor erhöht sich. So könnt ihr euch vielleicht von anderen Spielern absetzen.
 
 Beispiel für die Punktevergabe:
 
