@@ -181,14 +181,14 @@ Die Bands können aber unterschiedlich viele Songs performen, von 1 bis maximal 
 In diesem Spiel ist es so, dass Bands auch Zugaben geben können und mehrmals auf die Bühne kommen - auch wenn zwischendurch andere Bands spielen.
 </div>
 <div class="kaw-game-hint" style="text-align: left" >
-Mischt die <strong><a href="#on-stage-karten">On Stage - Karten</a></strong> und verteilt die Bands auf die 3 Bühnen <strong>„Faster“</strong> (links), <strong>„Louder“</strong> (Mitte) und <strong>„Harder“</strong> (rechts)  folgendermaßen:  
+Mischt die <strong><a href="#on-stage-karten">On Stage - Karten</a></strong> und verteilt die Bands folgendermaßen auf 3 Stapel (das sind die drei Bühnen):  
 <ul>
 <li>Zieht von oben jeweils eine <strong><a href="#on-stage-karten">On Stage - Karte</a></strong></li>
-<li>Wenn die abgebildete Band bereits ausliegt, legt die gezogene Karte dazu</li>
-<li>Wenn nicht, legt die gezogene Karte auf die nächste freie Bühne, wenn es eine gibt</li>  
+<li>Wenn die abgebildete Band bereits ausliegt, legt die gezogene Karte offen dazu</li>
+<li>Wenn nicht, legt die gezogene Karte offen auf die nächste freie Bühne, wenn es eine gibt</li>  
 </ul>
 
-Macht das so lange, bis eine Karte mit der vierten Band gezogen wird.  
+Macht das so lange, bis eine Karte mit der vierten Band gezogen wird, für die es keine freie Bühne mehr gibt.  
 Die verbleibenden Karten legt ihr quer hinter die Bühnen; das ist der Backstage-Bereich. Die zuletzt gezogene Karte legt ihr offen auf diesen Stapel, so dass man sehen kann, welche Band als nächstes die Bühne betreten wird.  
 Schaut euch in der <strong>[Übersicht](#uebersicht)</strong> an, wie das Ganze aussieht.
 </div>
