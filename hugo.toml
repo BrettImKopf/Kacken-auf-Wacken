@@ -31,6 +31,7 @@ EnableThemeToggle = "true"
 
 [params.footer]	
 bottomText = "footer"
+
 [params.logo]
 	path = "images/logo.png"
     alt = "Kacken auf Wacken"
