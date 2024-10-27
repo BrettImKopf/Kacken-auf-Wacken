@@ -29,7 +29,8 @@ EnableThemeToggle = "true"
   # Subtitle for home
   homeSubtitle = "Die Spielregeln"
 
-	
+[params.footer]	
+bottomText = "footer"
 [params.logo]
 	path = "images/logo.png"
     alt = "Kacken auf Wacken"
