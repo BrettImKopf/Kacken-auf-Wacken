@@ -329,7 +329,7 @@ Der Gigfaktor ist also 3 Bier x 2 Songs, die gespielt werden = 6
 
 Punkte für Spieler A:
 
-Der Funfaktor für diesen Spieler ist 3, weil er 2 Iron Basin - Karten hat und ein Song (Asses High) davon gerade gespielt wird.
+Der Fanfaktor für diesen Spieler ist 3, weil er 2 Iron Basin - Karten hat und ein Song (Asses High) davon gerade gespielt wird.
 
 Spieler A bekommt also 6 x 3 = 18 Wackenbändchen
 
