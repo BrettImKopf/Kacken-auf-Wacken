@@ -89,7 +89,7 @@ Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat.
 Das Wichtigste auf einem Wacken - Festival ist die Musik. Aber welche? Welche Bands wollt ihr euch angucken? Klar, eigentlich alle - leider unmöglich.  
 Das sind die <strong>Bands</strong>, die ihr gerade gerne live sehen würdet, mit euren <strong>Lieblingssongs</strong>.  
 Wenn ihr z.B. die abgebildete Karte habt, habt ihr total Bock, zur Band <strong>"AC/WC"</strong> abzurocken.  
-Wenn die dann auch noch euren Lieblingssong <strong>"Who Made Poo"</strong> spielen, wirkt sich das nochmal auf den <strong>Metalfaktor</strong> aus.
+Wenn die dann auch noch euren Lieblingssong <strong>"Who Made Poo"</strong> spielen, wirkt sich das nochmal auf den <strong>Gigfaktor</strong> aus.
 </div>
 <div class="kaw-game-hint">
     Diese Karten zieht ihr vom <em>"Rock!"</em> - Nachziehstapel.
@@ -247,23 +247,23 @@ Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
  
 - Alle Mitspieler, die ebenfalls passende "Rock!" - Karten und mindestens ein Bier auf der Hand haben, können dann mitkommen. Sie legen ihre Biere zu eurem Bier vor die Bühne.
 
-- Wenn das alle getan haben, wird der "Spaßfaktor" errechnet: Die Anzahl der Songs, die die betreffende Band spielt, mal der Anzahl an Bieren, die jetzt vor der Bühne liegen.  
+- Wenn das alle getan haben, wird der "Gigfaktor" errechnet: Die Anzahl der Songs, die die betreffende Band spielt, mal der Anzahl an Bieren, die jetzt vor der Bühne liegen.  
 
 <div class="kaw-game-hint" style="text-align: left" >
-Spaßfaktor = Anzahl der Songs auf der Bühne x Bier
+Gigfaktor = Anzahl der Songs auf der Bühne x Bier
 </div>
 
-- Jetzt wird für jeden Metalhead, der mitgekommen ist (der also ein Bier vor die Bühne gelegt hat), der "Metalfaktor" errechnet: Die Anzahl der passenden "Rock!" - Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
+- Jetzt wird für jeden Metalhead, der mitgekommen ist (der also ein Bier vor die Bühne gelegt hat), der "Fanfaktor" errechnet: Die Anzahl der passenden "Rock!" - Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
 
 <div class="kaw-game-hint" style="text-align: left" >
-Metalfaktor = passende "Rock!" - Karten + Lieblingssongs
+Fanfaktor = passende "Rock!" - Karten + Lieblingssongs
 </div>
 
-- Die Gewinnpunkte für jeden Mitspieler errechnet sich dann einfach, indem man den "Spaßfaktor" mit dem "Metalfaktor" multipliziert.  
+- Die Gewinnpunkte für jeden Mitspieler errechnet sich dann einfach, indem man den "Gigfaktor" mit dem "Fanfaktor" multipliziert.  
 Jeder Mitspieler darf sich die entsprechende Anzahl an Wacken-Bändchen aus dem Vorrat nehmen.
 
 <div class="kaw-game-hint" style="text-align: left" >
-Siegpunkte = Spaßfaktor x Metalfaktor
+Siegpunkte = Gigfaktor x Fanfaktor
 </div>
 
 - Danach kommen die Biere zurück zum Bierstand (also den Ablagestapel für die "Bier" - Karten). Die eingesetzten "Rock!" - Karten kommen aus dem Spiel. Die "On Stage" - Karten der betreffenden Band kommen ebenfalls aus dem Spiel.  
@@ -309,11 +309,11 @@ Da ihr nur zwei Hände habt, könnt ihr maximal zwei Bier auf der Hand haben. So
 <details>
 <summary class="kaw-summary-2" id="bock-auf-metal">Bock auf Metal</summary>
 Ihr zieht die oberste „Rock!“-Karte und nehmt sie auf die Hand. Ihr könnt beliebig viele „Rock!“-Karten auf der Hand haben. Die „Rock!“-Karten, die ihr auf der Hand habt, bilden die Bands ab, auf die ihr gerade Bock habt. 
-Die Songs auf den Karten sind eure Lieblingssongs. Wenn die Band auf der Bühne diesen Song spielt, wenn ihr abrockt, erhöht das den Metalfaktor und damit eure Siegpunkte.
+Die Songs auf den Karten sind eure Lieblingssongs. Wenn die Band auf der Bühne diesen Song spielt, wenn ihr abrockt, erhöht das den Fanfaktor und damit eure Siegpunkte.
 </details>
 <details>
 <summary class="kaw-summary-2" id="aktion-abrocken">Abrocken</summary>
-Siehe oben. Diese Aktion bringt euch die begehrten Wacken-Bändchen. Wenn Leute mitkommen, ist das gut für euch, denn dann ist mehr Bier da und der Bierfaktor erhöht sich. So könnt ihr euch vielleicht von anderen Spielern absetzen.
+Siehe oben. Diese Aktion bringt euch die begehrten Wacken-Bändchen. Wenn Leute mitkommen, ist das gut für euch, denn dann ist mehr Bier da und der Gigfaktor erhöht sich. So könnt ihr euch vielleicht von anderen Spielern absetzen.
 
 Beispiel für die Punktevergabe:
 
@@ -325,11 +325,11 @@ Spieler B geht mit: Er hat 2 Bier und eine Iron Basin – „Rock!“- Karte „
 
 Anzahl der Biere in der Tischmitte ist also 3.
 
-Der Spaßfaktor ist also 3 Bier x 2 Songs, die gespielt werden = 6 
+Der Gigfaktor ist also 3 Bier x 2 Songs, die gespielt werden = 6 
 
 Punkte für Spieler A:
 
-Der Metalfaktor für diesen Spieler ist 3, weil er 2 Iron Basin - Karten hat und ein Song (Asses High) davon gerade gespielt wird.
+Der Funfaktor für diesen Spieler ist 3, weil er 2 Iron Basin - Karten hat und ein Song (Asses High) davon gerade gespielt wird.
 
 Spieler A bekommt also 6 x 3 = 18 Wackenbändchen
 
