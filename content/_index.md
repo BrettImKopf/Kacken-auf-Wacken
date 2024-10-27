@@ -9,7 +9,6 @@ draft = false
 
 ## Spielregeln für das ultimative Kartenspiel für Metalheads  
   
-
 <details>
   <summary>Worum geht’s?</summary>
  
@@ -41,7 +40,8 @@ Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.
 ***
 
 <details>
-  <summary class="kaw-summary-2">24 „On Stage“-Karten</summary>
+
+  <summary class="kaw-summary-2" id="on-stage-karten">24 „On Stage“ - Karten</summary>
 
 <div class="kaw-card-brief"> 
 Das sind die Songs, die gerade performt werden.  
@@ -60,12 +60,10 @@ Hier spielt z.B. gerade die Band <strong>"Iron Basin"</strong> ihren Song <stron
 | _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
-
-
-
 </details>
+
 <details>
-  <summary class="kaw-summary-2" id="bier-karten">24 „Bierstand“-Karten</summary>
+  <summary class="kaw-summary-2" id="bier-karten">24 „Bierstand“ - Karten</summary>
 
 Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat. 
 
@@ -86,7 +84,7 @@ Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat.
 
 
 <details>
-  <summary class="kaw-summary-2" id="rock-karten">24 „Rock!“-Karten</summary>
+  <summary class="kaw-summary-2" id="rock-karten">24 „Rock!“ - Karten</summary>
   
 Das Wichtigste auf einem Wacken - Festival ist die Musik. Aber welche? Welche Bands wollt ihr euch angucken? Klar, eigentlich alle - leider unmöglich.  
 Das sind die <strong>Bands</strong>, die ihr gerade gerne live sehen würdet, mit euren <strong>Lieblingssongs</strong>.  
@@ -111,7 +109,7 @@ Wenn die dann auch noch euren Lieblingssong <strong>"Who Made Poo"</strong> spie
 
 
 <details>
-  <summary class="kaw-summary-2" id="wc-karten">24 „WC“-Karten</summary>
+  <summary class="kaw-summary-2" id="wc-karten">24 „WC“ - Karten</summary>
 
 Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
 
@@ -161,7 +159,7 @@ Wie im richtigen Leben: Wer am Ende die meisten <strong>Wacken - Bändchen</stro
 ***
 
 <details>
-  <summary class="kaw-summary-2" id="holy-ground">Der Holy Ground</summary>
+  <summary class="kaw-summary-2" id="nachziehstapel">Die Nachziehstapel</summary>
 
 Sortiert als erstes die 4 verschiedenen Kartentypen nach ihren Rückseiten. Legt dann drei Nachziehstapel aus: 
 
@@ -174,20 +172,31 @@ Sortiert als erstes die 4 verschiedenen Kartentypen nach ihren Rückseiten. Legt
 
 <details>
   <summary class="kaw-summary-2" id="buehnen">Die Bühnen</summary>
-  
-Verteilt die Bands auf die 3 Bühnen „Faster“ (links), „Louder“ (Mitte) und „Harder“ (rechts)  folgendermaßen:  
-*Zieht von oben jeweils eine „On Stage“-Karte*  
-*Wenn die abgebildete Band bereits ausliegt, legt die gezogene Karte dazu*  
-*Wenn nicht, legt die gezogene Karte auf die nächste freie Bühne, wenn es eine gibt*  
-Macht das so lange, bis eine Karte mit der vierten Band gezogen wird. Diese legt ihr offen auf den „On Stage“-Stapel ab (das ist der Backstage-Bereich, wo sich die Band auf ihren Auftritt vorbereitet).
-
-
-
-Im Ergebnis sind das drei offen ausliegende Kartenstapel mit jeweils 1 bis maximal vier Karten.
  
+Auf Wacken gibt es die drei großen Bühnen "Faster", "Louder" und "Harder".  
+Auf jeder der drei Bühnen kann natürlich immer nur eine Band zur Zeit spielen!  
+Die Bands können aber unterschiedlich viele Songs performen, von 1 bis maximal 4 Songs.  
+In diesem Spiel ist es so, dass Bands auch Zugaben geben können und mehrmals auf die Bühne kommen - auch wenn zwischendurch andere Bands spielen.
+ 
+Mischt die <strong>[On Stage - Karten](#on-stage-karten)</strong> und verteilt die Bands auf die 3 Bühnen <strong>„Faster“</strong> (links), <strong>„Louder“</strong> (Mitte) und <strong>„Harder“</strong> (rechts)  folgendermaßen:  
+- Zieht von oben jeweils eine <strong>[On Stage - Karte](#on-stage-karten)</strong>  
+- Wenn die abgebildete Band bereits ausliegt, legt die gezogene Karte dazu 
+- Wenn nicht, legt die gezogene Karte auf die nächste freie Bühne, wenn es eine gibt  
+
+Macht das so lange, bis eine Karte mit der vierten Band gezogen wird.  
+Die verbleibenden Karten legt ihr quer hinter die Bühnen; das ist der Backstage-Bereich. Die zuletzt gezogene Karte legt ihr offen auf diesen Stapel, so dass man sehen kann, welche Band als nächstes die Bühne betreten wird.  
+Schaut euch in der <strong>[Übersicht](#uebersicht)</strong> an, wie das Ganze aussieht.
+
 </details>
 
+<details>
+  <summary class="kaw-summary-2" id="uebersicht">Übersicht</summary>
+
+Euer Holy Ground könnte in etwa so aussehen:
+ 
  ![Spielfeld](images/Spielfeld.png)
+ 
+ </details>
  
 ***
 
