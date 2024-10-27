@@ -30,12 +30,14 @@ EnableThemeToggle = "true"
   homeSubtitle = "Die Spielregeln"
 
 [params.footer]	
-author = "icke"
-bottomText = ["JKkjkjk","kj"]
+trademark = "BrettImKopf"
 
 [params.logo]
 	path = "images/logo.png"
     alt = "Kacken auf Wacken"
+	
+[params.author]
+	name = "Stephan Noll"
  
 [[menu.main]]
   identifier = "faq"

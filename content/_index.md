@@ -15,11 +15,22 @@ draft = false
  
 ***
 
+<div style="text-align: center;">
 
-Ihr seid auf dem **Wacken Open Air** und wollt zu euren Lieblingsbands abrocken. Auf den drei Bühnen **„Harder“**, **„Louder“** und **„Faster“** spielen unterschiedliche Bands gleichzeitig, die Entscheidung fällt also nicht immer leicht. Worauf habt ihr gerade Bock? Geht ihr zusammen oder alleine? Habt ihr genug Bier? Und was passiert, wenn ihr gerade jetzt kacken müsst?
-Je mehr Songs ihr live seht, desto besser. 
-Wenn ihr andere Metalheads mitnehmt, noch besser. 
+Ihr seid auf dem **Wacken Open Air** und wollt zu euren Lieblingsbands abrocken. 
+Auf den drei Bühnen **„Harder“**, **„Louder“** und **„Faster“** spielen unterschiedliche Bands gleichzeitig, die Entscheidung fällt also nicht immer leicht.  
+Fragen über Fragen:  
+
+Auf welche Band habt ihr gerade Bock?  
+Wen nehmt ihr mit zum Abrocken?  
+Je mehr Songs ihr live seht, desto besser.  
+Wenn das dann auch noch eure Lieblingssongs sind, noch besser.  
+Wenn ihr zusammen mit anderen Metalheads zur Bühne geht, macht das Ganze noch mehr Bock.  
 Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.  
+
+**Hauptsache, ihr müsst nicht im entscheidenden Moment kacken...**  
+
+</div>
 
 ***
 </details>
@@ -44,7 +55,7 @@ Hier spielt z.B. gerade die Band <strong>"Iron Basin"</strong> ihren Song <stron
 
 <div class="kaw-card-sample">                        
 
-| ![Hund](images/vorderseiten/OnStage-Iron-Basin-AssesHigh.png) | ![Hund](images/rueckseiten/OnStage.png) |
+| ![Iron Basin on Stage mit Asses High](images/vorderseiten/OnStage-Iron-Basin-AssesHigh.png) | ![Rückseite On Stage - Karten](images/rueckseiten/OnStage.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
 | _Beispiel Vorderseite_ | _Rückseite_   |
 
@@ -53,71 +64,89 @@ Hier spielt z.B. gerade die Band <strong>"Iron Basin"</strong> ihren Song <stron
 
 
 </details>
-
-
 <details>
-  <summary class="kaw-summary-2">24 „Rock!“-Karten</summary>
-  
-_**Das sind die Bands, die ihr gerade gerne live sehen würdet, mit euren Lieblingssongs.  
-Wenn ihr z.B. die abgebildete Karte habt, habt ihr total Bock, zur Band "AC/WC" abzurocken.  
-Wenn die dann auch noch euren Lieblingssong "Who Made Poo" spielen, würde sich das nochmal auf den Spaßfaktor auswirken.**_
+  <summary class="kaw-summary-2" id="bier-karten">24 „Bierstand“-Karten</summary>
 
-<div class="kaw-card-sample">                         
+Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat. 
 
-| ![Hund](images/vorderseiten/ACWC-WhoMadePoo.png) | ![Hund](images/rueckseiten/Rock.png) |
-|:---------------------------------------------:|:---------------------------------------------:|
-| _Beispiel Vorderseite_ | _Rückseite_   |
-
+<div class="kaw-game-hint">
+    Diese Karten zieht ihr vom <em>"Bier"</em> - Nachziehstapel.
 </div>
-
-
-
-</details>
-
-<details>
-  <summary class="kaw-summary-2">24 „Bierstand“-Karten</summary>
 
 <div class="kaw-card-sample">                          
 
-| ![Hund](images/vorderseiten/Bier.png) | ![Hund](images/rueckseiten/Bierstand.png) |
+| ![Bier - Karte](images/vorderseiten/Bier.png) | ![Rückseite Bier - Karten](images/rueckseiten/Bierstand.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
 | _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
 
-Hier gibt’s Bier. Wenn man Glück hat. 
+</details>
+
+
+
+<details>
+  <summary class="kaw-summary-2" id="rock-karten">24 „Rock!“-Karten</summary>
+  
+Das Wichtigste auf einem Wacken - Festival ist die Musik. Aber welche? Welche Bands wollt ihr euch angucken? Klar, eigentlich alle - leider unmöglich.  
+Das sind die <strong>Bands</strong>, die ihr gerade gerne live sehen würdet, mit euren <strong>Lieblingssongs</strong>.  
+Wenn ihr z.B. die abgebildete Karte habt, habt ihr total Bock, zur Band <strong>"AC/WC"</strong> abzurocken.  
+Wenn die dann auch noch euren Lieblingssong <strong>"Who Made Poo"</strong> spielen, wirkt sich das nochmal auf den <strong>Spaßfaktor</strong> aus.
+
+<div class="kaw-game-hint">
+    Diese Karten zieht ihr vom <em>"Rock!"</em> - Nachziehstapel.
+</div>
+
+<div class="kaw-card-sample">                         
+
+| ![Rock! - Karte ACWC Who Made Poo](images/vorderseiten/ACWC-WhoMadePoo.png) | ![Rückseite Rock! - Karten](images/rueckseiten/Rock.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Beispiel Vorderseite_ | _Rückseite_   |
+
+</div>
+
+
 
 </details>
 
 
 <details>
-  <summary class="kaw-summary-2">24 „WC“-Karten</summary>
+  <summary class="kaw-summary-2" id="wc-karten">24 „WC“-Karten</summary>
+
+Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
+
+<div class="kaw-game-hint">
+    Diese Karten zieht ihr vom <em>"WC"</em> - Nachziehstapel.
+</div>
 
 <div class="kaw-card-sample">                        
 
-| ![Hund](images/vorderseiten/Frei.png) | ![Hund](images/rueckseiten/WC.png) |
+| ![WC frei](images/vorderseiten/Frei.png) | ![Rückseite WC - Karten](images/rueckseiten/WC.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
 | _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
 
-Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
+
  
 </details>
 
 <details>
   <summary class="kaw-summary-2">6 Karten mit Wacken-Bändchen</summary>
 
+Wie im richtigen Leben: Wer am Ende die meisten <strong>Wacken - Bändchen</strong> gesammelt hat, gewinnt. Ihr bekommt diese Bändchen als Belohnung, wenn ihr zu einer Bühne zum <strong>Abrocken</strong> geht.
+
+<div class="kaw-game-hint">
+    Zerschneidet diese Karten, legt sie in Reichweite und verwendet die Wacken-Bändchen als <em>Siegpunkte</em>.  
+</div>
+
 <div class="kaw-card-sample">                         
 
-| ![Hund](images/vorderseiten/4.png) | ![Hund](images/vorderseiten/4.png) |
+| ![Wacken - Bändchen](images/vorderseiten/4.png) | ![Wacken - Bändchen](images/vorderseiten/4.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
 | _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
-
-Wie im richtigen Leben: Wer am Ende die meisten hat, gewinnt.
-Zerschneidet diese Karten und verwendet die Wacken-Bändchen als Siegpunkte.  
 
 </details>
 
@@ -131,10 +160,21 @@ Zerschneidet diese Karten und verwendet die Wacken-Bändchen als Siegpunkte.
  
 ***
 
-Mischt die Stapel mit den 4 unterschiedlichen Kartenarten gut durch und legt sie als 4 verdeckte Nachziehstapel aus.  
-Legt die Wacken-Bändchen neben das Spiel. Das sind eure Gewinnpunkte.
+<details>
+  <summary class="kaw-summary-2" id="holy-ground">Der Holy Ground</summary>
 
-## Baut die Bühnen auf  
+Sortiert als erstes die 4 verschiedenen Kartentypen nach ihren Rückseiten. Legt dann drei Nachziehstapel aus: 
+
+
+- <strong>[Bier - Karten](#bier-karten)</strong>
+- <strong>[Rock! - Karten](#rock-karten)</strong>
+- <strong>[WC - Karten](#wc-karten)</strong>
+ 
+</details>
+
+<details>
+  <summary class="kaw-summary-2" id="buehnen">Die Bühnen</summary>
+  
 Verteilt die Bands auf die 3 Bühnen „Faster“ (links), „Louder“ (Mitte) und „Harder“ (rechts)  folgendermaßen:  
 *Zieht von oben jeweils eine „On Stage“-Karte*  
 *Wenn die abgebildete Band bereits ausliegt, legt die gezogene Karte dazu*  
@@ -142,9 +182,11 @@ Verteilt die Bands auf die 3 Bühnen „Faster“ (links), „Louder“ (Mitte) 
 Macht das so lange, bis eine Karte mit der vierten Band gezogen wird. Diese legt ihr offen auf den „On Stage“-Stapel ab (das ist der Backstage-Bereich, wo sich die Band auf ihren Auftritt vorbereitet).
 
 
-Im Ergebnis sind das drei offen ausliegende Kartenstapel mit jeweils 1 bis maximal vier Karten. Das Ganze sieht dann etwa so aus:
+
+Im Ergebnis sind das drei offen ausliegende Kartenstapel mit jeweils 1 bis maximal vier Karten.
  
- 
+</details>
+
  ![Spielfeld](images/Spielfeld.png)
  
 ***
