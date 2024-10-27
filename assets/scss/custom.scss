@@ -89,16 +89,20 @@ table td, table th {
     border-radius: 10px; 
     box-shadow: 2px 4px 8px rgba(0, 0, 0, 0.2); 
     font-style: italic; 
+	font-weight: bold;
     display: inline-block; 
     text-align: center; 
     margin: 15px;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
-    cursor: pointer;
     transform: scale(1.0);
 }
 
+[data-theme="dark"] kaw-game-hint {
+  color: white; /* Farbe im dunklen Theme */
+}
+
 .kaw-card-brief {
-	font-weight: bold; 
+	font-weight: normal; 
     text-align: center; 
     margin: 15px;
 }
