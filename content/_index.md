@@ -213,27 +213,71 @@ Euer Holy Ground könnte in etwa so aussehen:
 ***
 
 
-Der Spieler mit den längsten Haaren fängt an. 
-Regeln für einen Spielzug (genauere Beschreibung der Aktionen siehe „Aktionen“):
-Wenn ein Spieler kacken muss (d.h. er hat eine „Kacken“-Karte vor sich liegen), kann er ausschließlich die Aktion „Kacken gehen“ ausführen. Er kann weder Bier holen noch abrocken (auch nicht mit anderen zusammen).
-Ansonsten führt er entweder die Aktion „Bock auf Rock“ oder „Bier holen“ aus, d.h. er MUSS eine Karte ziehen. Denkt dran: „Bier holen“ geht nur, wenn ihr weniger als 2 Bier habt.
-Wenn er mindestens 1 Bier und eine passende „Rock!“-Karte hat, kann er „Abrocken“; dafür gibt es Wacken-Bändchen! -> siehe „Abrechnen“
-Alle Mitspieler, die wollen und können, können mit zur Bühne gehen. Ggf. kann der Spieler „Bier ausgeben“.
-Zieht ein Spieler eine „Kacken“-Karte, egal wann und von welchem Stapel (sie sind in den Stapeln „Rock!“ und „Bierstand“ versteckt), legt er diese Karte offen vor sich hin. Er kann im selben Zug noch sein Glück versuchen und sofort „Kacken gehen“. Danach ist sein Zug aber beendet.
+Der Spieler mit den längsten Haaren fängt an. Danach wird im Uhrzeigersinn weitergespielt.
+Ein Spielzug sieht folgendermaßen aus:
+<details>
+  <summary class="kaw-summary-2" id="spielzug">Spielzug</summary>
+  
 
-Spielende
+1. Wenn du eine "Kacken" - Karte vor dir liegen hast, darfst du nichts anderes tun als kacken zu gehen: Zieh eine WC-Karte. Wenn frei ist, kannst du deine "Kacken" - Karte dorthin zurücklegen, wo du sie her hast. Wenn nicht - Pech gehabt. In beiden Fällen ist dein Zug danach zu Ende.
+2. Du musst entweder eine "Rock!" - Karte oder eine "Bier" - Karte ziehen. Wenn du hierbei eine "Kacken" - Karte ziehst, ist dein Zug zu Ende.
+3. Wenn du mindestens 1 Bier hast, und wenn auf einer der Bühnen eine Band spielt, die du auf der Hand hast, kannst du (du musst nicht!) abrocken!
+
+
+<div class="kaw-game-hint" style="text-align: left" >
+Zieht ein Spieler eine „Kacken“-Karte, egal wann und von welchem Stapel (sie sind in den Stapeln „Rock!“ und „Bierstand“ versteckt), legt er diese Karte offen vor sich hin. Er kann im selben Zug noch sein Glück versuchen und sofort „Kacken gehen“. Danach ist sein Zug aber beendet.
+</div>
+
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="abrocken">Abrocken</summary>
+
+Du legst dein Bier (oder deine zwei Bier) vor die Bühne, auf der die Band spielt, die du dir ansehen willst.  
+Alle Mitspieler, die ebenfalls passende "Rock!" - Karten auf der Hand haben, können mitkommen.
+
+<div class="kaw-game-hint" style="text-align: left" >
+Wenn ein Spieler mitkommen möchte, der zwar eine passende "Rock!" - Karte, aber kein Bier hat, kannst du versuchen, ihm noch schnell eins vom Bierstand zu holen.
+Wenn du erfolgreich bist, kann er mitkommen (dadurch erhöhen sich auch deine Gewinnpunkte). Wenn du am Bierstand "warten" musst, kann er nicht mitkommen. Und wenn du bei dem Versuch eine "Kacken" - Karte ziehst, ist dein Zug sofort beendet. Jeder nimmt sich sein Bier zurück und der nächste Spieler ist dran.
+</div>
+
+Alle Mitspieler, die mitkommen wollen, legen ihre Biere dazu.  
+
+
+
+Wenn das alle getan haben, kann der "Bierfaktor" errechnet werden: Die Anzahl der Songs, die die betreffende Band spielt, mal der Anzahl an Bieren, die jetzt vor der Bühne liegen.  
+
+Jetzt wird für jeden Metalhead, der mitgekommen ist (der also ein Bier vor die Bühne gelegt hat), der "Metal-Faktor" errechnet: Die Anzahl der passenden "Rock!" - Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
+
+Die Gewinnpunkte für jeden Mitspieler errechnet sich dann einfach, indem man den "Bierfaktor" mit dem "Metal-Faktor" multipliziert.  
+Jeder Mitspieler darf sich die entsprechende Anzahl an Wacken-Bändchen aus dem Vorrat nehmen.
+
+Danach kommen die Biere zurück zum Bierstand (also den Ablagestapel für die "Bier" - Karten). Die eingesetzten "Rock!" - Karten kommen aus dem Spiel. Die "On Stage" - Karten der betreffenden Band kommen ebenfalls aus dem Spiel.  
+Anschließend kommt die Band aus dem Backstagebereich auf die frei gewordene Bühne, und es wird wie beim Spielaufbau verfahren (so lange eine neue "On Stage" - Karte ziehen, bis ein vierte Band kommt, die dann wieder im Backstage - Bereich wartet.
+
+</details>
+
+
+
+
+***
+
+</details>
+
+<details>
+  <summary id="spielende">Spielende</summary>
+
 Das Spiel endet, wenn alle Bands gespielt haben, d.h. wenn alle „On Stage“ – Karten aus dem Spiel sind, oder es keine „Rock!“ – Karten mehr gibt.
 Wer die meisten Wacken-Bändchen hat, gewinnt.
 
 ***
 
 </details>
-<details>
-  <summary>Aktionen</summary>
  
-***
 
 
+<details>
+  <summary id="aktionen">Aktionen</summary>
 
 Man kann auf Wacken jede Menge Dinge tun. Wir beschränken uns in diesem Spiel aber auf die wesentlichen:
 Bier holen
