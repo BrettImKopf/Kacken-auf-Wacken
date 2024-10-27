@@ -30,7 +30,8 @@ EnableThemeToggle = "true"
   homeSubtitle = "Die Spielregeln"
 
 [params.footer]	
-bottomText = "footer"
+author = "icke"
+bottomText = ["JKkjkjk","kj"]
 
 [params.logo]
 	path = "images/logo.png"
@@ -41,7 +42,7 @@ bottomText = "footer"
   name = "FAQs"
   link = "#faq"
   url = "/faq"
-  weight = 1
+  weight = 2
   [menu.main.params]
   caption = "Fragen und Antworten"
 [[menu.main]]
@@ -49,6 +50,6 @@ bottomText = "footer"
   name = "Spielregeln"
   link = "#main"
   url = "/"
-  weight = 2
+  weight = 1
   [menu.main.params]
   caption = "Zurück zu den Spielregeln"
