@@ -300,7 +300,12 @@ Wer die meisten Wacken-Bändchen hat, gewinnt.
 
 
 Hier findet ihr für alle Aktionen nochmal eine detailliertere Beschreibung, falls noch was unklar sein sollte.
+<details>
+<summary class="kaw-summary-2" id="buehnenaufbau">Bühnenaufbau</summary>
 
+![Bühnenaufbau](images/buehnenaufbau_1.gif)
+
+</details>
 <details>
 <summary class="kaw-summary-2" id="bier-holen">Bier holen</summary>
 Zieh die oberste Karte vom Bierstand. Wenn du Glück hast, bekommst du ein Bier. Wenn nicht, legst du die Karte vor dem Bierstand ab.
