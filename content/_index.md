@@ -303,7 +303,23 @@ Hier findet ihr für alle Aktionen nochmal eine detailliertere Beschreibung, fal
 <details>
 <summary class="kaw-summary-2" id="buehnenaufbau">Bühnenaufbau</summary>
 
+<details>
+<summary class="kaw-summary-2" id="buehnenaufbau_komplett">Bühnenaufbau komplett</summary>
+
+So wird die Bühne am Anfang aufgebaut:  
+
 ![Bühnenaufbau](images/buehnenaufbau_1.gif)
+
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="buehnenaufbau_bandwechsel">Bühnenaufbau Bandwechsel</summary>
+
+So betritt eine neue Band die Bühne:  
+
+![Bühnenaufbau](images/buehnenaufbau_2.gif)
+
+</details>
 
 </details>
 <details>
@@ -322,13 +338,36 @@ Siehe oben. Diese Aktion bringt euch die begehrten Wacken-Bändchen. Wenn Leute 
 
 Beispiel für die Punktevergabe:
 
-Auf der „Louder“-Stage spielen Iron Basin die Songs „Asses High“ und „Fear of the Fart“.
+Auf der linken Bühne spielen Deep Poople die Songs „Pee King“ und „Black Shite“. Spieler A geht abrocken und bringt zwei Bier mit. Spieler B geht mit und bringt ein Bier mit. Insgesamt liegen also drei Bier vor der Bühne. 
 
-Spieler A geht abrocken: er hat die Iron Basin - „Rock!“-Karten „Asses High“ und „Run to the Pils“ und legt 1 Bier in die Tischmitte.  
+<table>
+	<thead>
+		<tr>
+			<th>Der Gigfaktor ist also <strong>6</strong>:<br/> 3 Bier x 2 Songs auf der Bühne<br/><br/>
+				Dieser Spieler hat eine Deep Poople - Karte; er bekommt also<br/><br/>
+				6 x 1 = <strong>6</strong> Punkte</th>
+			<td><img alt="Beispiel für die Punktevergabe" src="images/sample_abrechnen_1.jpg"></td>
+		</tr>
+	</thead>
+</table>
 
-Spieler B geht mit: Er hat 2 Bier und eine Iron Basin – „Rock!“- Karte „The Pooper“. Sonst kommt niemand mit.
+<table>
+	<thead>
+		<tr>
+			<th>Dieser Spieler hat zwei Deep Poople - Karten. Auf der Bühne spielen sie sogar eins seiner Lieblingssongs: "Pee King"!<br/><br/>
+				Sein Fanfaktor ist also 3: Zwei passende Karten plus ein passender Song.<br/><br/>
+				Insgesamt bekommt er also <br/><br/>
+				6 x 3 = <strong>18</strong> Punkte</th>
+			<td><img alt="Beispiel für die Punktevergabe" src="images/sample_abrechnen_2.jpg"></td>
+		</tr>
+	</thead>
+</table>
 
-Anzahl der Biere in der Tischmitte ist also 3.
+
+
+Auf der linken Bühne spielen Deep Poople die Songs „Pee King“ und „Black Shite“.
+
+Spieler A geht abrocken und bringt zwei Bier mit. Spieler B geht mit und bringt ein Bier mit. Insgesamt liegen also drei Bier vor der Bühne.
 
 Der Gigfaktor ist also 3 Bier x 2 Songs, die gespielt werden = 6 
 
