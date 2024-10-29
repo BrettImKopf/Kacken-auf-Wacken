@@ -363,21 +363,26 @@ Auf der linken Bühne spielen Deep Poople die Songs „Pee King“ und „Black 
 	</thead>
 </table>
 
+Ein Spieler geht zu AC/WC uhnd bringt 2 Bier mit:
+
+![Abrocken](images/abrocken_1.jpeg)
+
+Ein anderer Spieler geht mit und bringt 1 Bier mit:
+
+![Abrocken](images/abrocken_2.jpeg)  
+
+Jetzt liegen 3 Bier vor der Bühne, auf der 2 Songs gespielt werden. Der Gigfaktor ist also 2 x 3 = 6  
+
+Ein Spieler hat eine passende Rock!-Karte. Er bekommt also 6 x 1 = 6 Punkte.  
+
+![Abrocken](images/abrocken_3.jpeg)
+
+Der andere Spieler hat zwei passende Rock!-Karten. Ein Song auf seinen Rock!-Karten wird sogar gerade gespielt ("Who Made Poo"). Sein Fanfaktor isst also 3 (2 passende Karten plus 1 passender Song).  
+Er bekommt also 6 x 3 = 18 Punkte.
+
+![Abrocken](images/abrocken_4.jpeg)
 
 
-Auf der linken Bühne spielen Deep Poople die Songs „Pee King“ und „Black Shite“.
-
-Spieler A geht abrocken und bringt zwei Bier mit. Spieler B geht mit und bringt ein Bier mit. Insgesamt liegen also drei Bier vor der Bühne.
-
-Der Gigfaktor ist also 3 Bier x 2 Songs, die gespielt werden = 6 
-
-Punkte für Spieler A:
-
-Der Fanfaktor für diesen Spieler ist 3, weil er 2 Iron Basin - Karten hat und ein Song (Asses High) davon gerade gespielt wird.
-
-Spieler A bekommt also 6 x 3 = 18 Wackenbändchen
-
-Spieler B hat nur eine passende „Rock!“-Karte und kein Lieblingslied („The Pooper“ wird nicht gespielt), bekommt also 6 x 1 = 6 Punkte.
 </details>
 <details>
 <summary class="kaw-summary-2" id="kacken-gehen">Kacken gehen</summary>
