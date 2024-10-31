@@ -162,17 +162,13 @@ Wie im richtigen Leben: Wer am Ende die meisten <strong>Wacken - Bändchen</stro
 
 <div class="kaw-game-hint" style="text-align: left" >
 Sortiert als erstes die 4 verschiedenen Kartentypen nach ihren Rückseiten. Legt dann drei Nachziehstapel aus:  
+</div>
 
 | ![Bierstand](images/rueckseiten/Bierstand.png) | ![Rock!](images/rueckseiten/Rock.png | ![WC](images/rueckseiten/WC.png
 |:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
 | _Bierstand_ | _Rock!_ | _WC_ |  
 
-<ul>
-<li><strong><a href="#bier-karten">Bier - Karten</a></strong></li>
-<li><strong><a href="#rock-karten">Rock! - Karten</a></strong></li>
-<li><strong><a href="#wc-karten">WC - Karten</a></strong></li>
-</ul>
-</div>
+
 </details>
 
 <details>
