@@ -192,8 +192,11 @@ Mischt die <strong><a href="#on-stage-karten">On Stage - Karten</a></strong> und
 
 Macht das so lange, bis eine Karte mit der vierten Band gezogen wird, für die es keine freie Bühne mehr gibt.  
 Die verbleibenden Karten legt ihr quer hinter die Bühnen; das ist der Backstage-Bereich. Die zuletzt gezogene Karte legt ihr offen auf diesen Stapel, so dass man sehen kann, welche Band als nächstes die Bühne betreten wird.  
-Schaut euch in der <strong>[Übersicht](#uebersicht)</strong> an, wie das Ganze aussieht.
+
 </div>
+
+![Bühnenaufbau](images/buehnenaufbau_1.gif)
+
 </details>
 
 <details>
