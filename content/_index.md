@@ -296,12 +296,7 @@ Wer die meisten Wacken-Bändchen hat, gewinnt.
 
 
 <details>
-  <summary id="aktionen">Aktionen</summary>
-
-
-Hier findet ihr für alle Aktionen nochmal eine detailliertere Beschreibung, falls noch was unklar sein sollte.
-<details>
-<summary class="kaw-summary-2" id="buehnenaufbau">Bühnenaufbau</summary>
+  <summary id="beispiele">Beispiele</summary>
 
 <details>
 <summary class="kaw-summary-2" id="buehnenaufbau_komplett">Bühnenaufbau komplett</summary>
@@ -318,8 +313,6 @@ So wird die Bühne am Anfang aufgebaut:
 So betritt eine neue Band die Bühne:  
 
 ![Bühnenaufbau](images/buehnenaufbau_2.gif)
-
-</details>
 
 </details>
 <details>
