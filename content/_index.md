@@ -133,15 +133,24 @@ Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat.
 <div class="kaw-card-brief"> 
 Wie im richtigen Leben: Wer am Ende die meisten <strong>Wacken - Bändchen</strong> gesammelt hat, gewinnt. Ihr bekommt diese Bändchen als Belohnung, wenn ihr zu einer Bühne zum <strong>Abrocken</strong> geht.
 </div>
-<div class="kaw-game-hint">
-    Zerschneidet diese Karten, legt sie in Reichweite und verwendet die Wacken-Bändchen als <em>Siegpunkte</em>.  
-</div>
+
 
 <div class="kaw-card-sample">                         
 
 | ![Wacken - Bändchen](images/vorderseiten/4.png) | ![Wacken - Bändchen](images/vorderseiten/4.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
 | _Beispiel Vorderseite_ | _Rückseite_   |
+
+</div>
+<div class="kaw-game-hint">
+    Zerschneidet diese Karten, legt sie in Reichweite und verwendet die Wacken-Bändchen als <em>Siegpunkte</em>.  
+</div>
+
+<div class="kaw-card-sample">                         
+
+| ![Wacken - Bändchen](images/wackenbaendchen.jpg) | ![Wacken - Bändchen](images/wackenbaendchen_sorted.jpg) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Wackenbändchen_ | <em>Es gibt 1-er, 2-er, 3-er, 6-er, 10-er und 12-er</em>   |
 
 </div>
 
@@ -164,13 +173,13 @@ Wie im richtigen Leben: Wer am Ende die meisten <strong>Wacken - Bändchen</stro
 Sortiert als erstes die 4 verschiedenen Kartentypen nach ihren Rückseiten. Legt dann drei Nachziehstapel aus:  
 </div>
 
-<div class="kaw-card-sample">                         
+![Nachziehstapel](images/nachziehstapel.jpg)
 
-| ![Bierstand](images/rueckseiten/Bierstand.png) | ![Rock](images/rueckseiten/Rock.png) | ![WC](images/rueckseiten/WC.png) |
-|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
-| _Bierstand_ | _Rock!_ | _WC_ |  
+Lasst ein bisschen Platz für Ablagestapel. Die Bierstand- und WC - Karten werden meistens abgelegt.
 
-</div>
+![Nachziehstapel](images/nachziehstapel_2.jpg)
+
+
 
 </details>
 
@@ -195,7 +204,7 @@ Die verbleibenden Karten legt ihr quer hinter die Bühnen; das ist der Backstage
 
 </div>
 
-![Bühnenaufbau](images/buehnenaufbau_1.gif)
+![Bühnenaufbau](images/buehnenaufbau.gif)
 
 </details>
 
@@ -205,13 +214,14 @@ Die verbleibenden Karten legt ihr quer hinter die Bühnen; das ist der Backstage
 Euer Holy Ground könnte in etwa so aussehen:
 </div>
 
- ![Spielfeld](images/Spielfeld.png)
+ ![Spielfeld](images/spielfeld.jpg)
  
  </details>
  
 ***
 
-</details>
+ </details>
+
 <details>
   <summary>Spielablauf</summary>
  
@@ -229,6 +239,15 @@ Ihr könnt ab jetzt nichts anderes tun als euer Glück am WC zu versuchen, bis i
 Ihr könnt auch nicht mitgehen, wenn jemand abrockt. 
 Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
 </div>
+<div class="kaw-card-sample">                         
+
+| ![Kack-Karte](images/Kacken.png) | ![Wacken - Bändchen](images/Kacken_bier.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Kack-Karte im Rock!-Stapel_ | _Kack-Karte beim Bierstand_   |
+
+</div>
+
+
 </details>
 
 <details>
@@ -239,7 +258,7 @@ Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
  
 1. Ihr müsst zuerst entweder eine "Rock!" - oder eine "Bier" - Karte ziehen.  
 
-2. Wenn ihr dann mindestens 1 Bier habt, und wenn auf einer der Bühnen eine Band spielt, die ihr auf der Hand habt, könnt ihr abrocken!
+2. Wenn ihr dann mindestens 1 Bier habt, und wenn auf einer der Bühnen eine Band spielt, die ihr auf der Hand habt, könnt ihr <strong><a href="#abrocken">Abrocken</a></strong>!
 </div>
 
 
@@ -248,17 +267,33 @@ Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
 <details>
 <summary class="kaw-summary-2" id="abrocken">Abrocken</summary>
 
-- Als erstes legt ihr euer Bier (oder eure zwei Bier) vor die Bühne, auf der die Band spielt, die ihr euch ansehen wollt. 
+Als erstes legt ihr euer Bier (oder eure zwei Bier) vor die Bühne, auf der die Band spielt, die ihr euch ansehen wollt. In diesem Beispiel hat ein Spieler Rock!-Karten von AC/WC und will abrocken. Also legt er seine zwei Bier vor die Bühne:
  
-- Alle Mitspieler, die ebenfalls passende "Rock!" - Karten und mindestens ein Bier auf der Hand haben, können dann mitkommen. Sie legen ihre Biere zu eurem Bier vor die Bühne.
+![Abrechnen 1](images/abrechnen_2_bier.jpg)
 
-- Wenn das alle getan haben, wird der "Gigfaktor" errechnet: Die Anzahl der Songs, die die betreffende Band spielt, mal der Anzahl an Bieren, die jetzt vor der Bühne liegen.  
+Alle Mitspieler, die ebenfalls passende "Rock!" - Karten und mindestens ein Bier auf der Hand haben, können dann mitkommen. Sie legen ihre Biere zu eurem Bier vor die Bühne.  
+Im Beispiel kommt ein weiterer Spieler mit und legt sein Bier vor die Bühne:
 
-<div class="kaw-game-hint" style="text-align: left" >
-Gigfaktor = Anzahl der Songs auf der Bühne x Bier
+![Abrechnen 1](images/abrechnen_3_bier.jpg)
+
+Wenn das alle getan haben, kann der <strong>"Gigfaktor"</strong> errechnet werden: Die Anzahl der Songs, die die betreffende Band spielt, mal der Anzahl an Bieren, die jetzt vor der Bühne liegen.  In unserem Beispiel sind das 6. 
+
+<div class="kaw-game-hint" style="text-align: center" >
+Gigfaktor = <br/>
+Anzahl der Songs auf der Bühne x Bier
 </div>
 
-- Jetzt wird für jeden Metalhead, der mitgekommen ist (der also ein Bier vor die Bühne gelegt hat), der "Fanfaktor" errechnet: Die Anzahl der passenden "Rock!" - Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
+Der <strong>Gigfaktor</strong> ist für alle gleich.  
+Jetzt werden für jeden Metalhead, der mitgekommen ist (der also ein Bier vor die Bühne gelegt hat), der <strong>"Fanfaktor"</strong> errechnet: Die Anzahl der passenden "Rock!" - Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
+Die Siegpunkte erhält man dann, indem man den <strong>Gigfaktor</strong> mit dem <strong>Fanfaktor</strong> multipliziert.     
+Klingt kompliziert, ist aber ganz einfach:
+
+| ![Spieler 1](images/abrechnen_1_rock.jpg) | ![Spieler 2](images/abrechnen_2_rock.jpg) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Spieler 1 hat eine passende Rock!-Karte; Fanfaktor ist also 1_ | _Spieler 2 hat zwei passende Rock!-Karten und einen übereinstimmenden Song (Who made Poo). Damit hat er einen Fanfaktor von 3_   |
+| _Siegpunkte also_ |  _Siegpunkte also_ |
+| _1 x 6 = 6_ |  _3 x 6 = 18_ |
+| ![Siegpunkte 1](images/6_punkte.jpg) | ![Siegpunkte 2](images/18_punkte.jpg) |
 
 <div class="kaw-game-hint" style="text-align: left" >
 Fanfaktor = passende "Rock!" - Karten + Lieblingssongs
@@ -280,8 +315,6 @@ Wenn ihr erfolgreich seid, kann er mitkommen (dadurch erhöhen sich auch eure Ge
 </div>
 
 </details>
-
-
 
 
 ***
