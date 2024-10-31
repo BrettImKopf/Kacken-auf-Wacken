@@ -267,7 +267,8 @@ Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
 <details>
 <summary class="kaw-summary-2" id="abrocken">Abrocken</summary>
 
-Als erstes legt ihr euer Bier (oder eure zwei Bier) vor die Bühne, auf der die Band spielt, die ihr euch ansehen wollt. 
+Als erstes legt ihr euer Bier (oder eure zwei Bier) vor die Bühne, auf der die Band spielt, die ihr euch ansehen wollt.  
+
 In diesem Beispiel hat ein Spieler Rock!-Karten von AC/WC und will abrocken. Also legt er seine zwei Bier vor die Bühne:
  
 ![Abrechnen 1](images/abrechnen_2_bier.jpg)
