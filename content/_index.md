@@ -166,7 +166,7 @@ Sortiert als erstes die 4 verschiedenen Kartentypen nach ihren Rückseiten. Legt
 
 <div class="kaw-card-sample">                         
 
-| ![Bierstand](images/rueckseiten/Bierstand.png) | ![Rock](images/rueckseiten/Rock.png | ![WC](images/rueckseiten/WC.png
+| ![Bierstand](images/rueckseiten/Bierstand.png) | ![Rock](images/rueckseiten/Rock.png) | ![WC](images/rueckseiten/WC.png) |
 |:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
 | _Bierstand_ | _Rock!_ | _WC_ |  
 
