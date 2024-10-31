@@ -267,11 +267,13 @@ Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
 <details>
 <summary class="kaw-summary-2" id="abrocken">Abrocken</summary>
 
-Als erstes legt ihr euer Bier (oder eure zwei Bier) vor die Bühne, auf der die Band spielt, die ihr euch ansehen wollt. In diesem Beispiel hat ein Spieler Rock!-Karten von AC/WC und will abrocken. Also legt er seine zwei Bier vor die Bühne:
+Als erstes legt ihr euer Bier (oder eure zwei Bier) vor die Bühne, auf der die Band spielt, die ihr euch ansehen wollt. 
+In diesem Beispiel hat ein Spieler Rock!-Karten von AC/WC und will abrocken. Also legt er seine zwei Bier vor die Bühne:
  
 ![Abrechnen 1](images/abrechnen_2_bier.jpg)
 
 Alle Mitspieler, die ebenfalls passende "Rock!" - Karten und mindestens ein Bier auf der Hand haben, können dann mitkommen. Sie legen ihre Biere zu eurem Bier vor die Bühne.  
+
 Im Beispiel kommt ein weiterer Spieler mit und legt sein Bier vor die Bühne:
 
 ![Abrechnen 1](images/abrechnen_3_bier.jpg)
