@@ -23,7 +23,7 @@ Fragen über Fragen:
 Auf welche Band habt ihr gerade Bock?  
 Wen nehmt ihr mit zum Abrocken?  
 Je mehr Songs ihr live seht, desto besser.  
-Wenn das dann auch noch eure Lieblingssongs sind, noch besser.  
+Wenn dann auch noch eure Lieblingssongs dabei sind, noch besser.  
 Wenn ihr zusammen mit anderen Metalheads zur Bühne geht, macht das Ganze noch mehr Bock.  
 Und: Es kann nie schaden, ein oder zwei **Bier** mitzunehmen.  
 
@@ -89,7 +89,7 @@ Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat.
 Das Wichtigste auf einem Wacken - Festival ist die Musik. Aber welche? Welche Bands wollt ihr euch angucken? Klar, eigentlich alle - leider unmöglich.  
 Das sind die <strong>Bands</strong>, die ihr gerade gerne live sehen würdet, mit euren <strong>Lieblingssongs</strong>.  
 Wenn ihr z.B. die abgebildete Karte habt, habt ihr total Bock, zur Band <strong>"AC/WC"</strong> abzurocken.  
-Wenn die dann auch noch euren Lieblingssong <strong>"Who Made Poo"</strong> spielen, wirkt sich das nochmal auf den <strong>Gigfaktor</strong> aus.
+Wenn die dann auch noch euren Lieblingssong - hier im Beispiel <strong>"Who Made Poo"</strong> - spielen, gibt das noch mehr Punkte beim Abrocken.
 </div>
 <div class="kaw-game-hint">
     Diese Karten zieht ihr vom <em>"Rock!"</em> - Nachziehstapel.
