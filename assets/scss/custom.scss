@@ -55,6 +55,7 @@ table {
     unicode-bidi: isolate;
     border-spacing: 20px;
     border-color: gray;
+	width: 100%;
 	table-layout: fixed;
 }
 
@@ -68,6 +69,10 @@ table td, table th {
   justify-content: center;
   width: 90%;
   max-width: 100vw;
+}
+
+.kaw-card-sample td, .kaw-card-sample th {
+  width: 50%;
 }
 
 .kaw-summary-2 {

@@ -177,7 +177,7 @@ Sortiert als erstes die 4 verschiedenen Kartentypen nach ihren Rückseiten. Legt
 <details>
   <summary class="kaw-summary-2" id="buehnen">Die Bühnen</summary>
 <div class="kaw-card-brief"> 
-Auf Wacken gibt es die drei großen Bühnen "Faster", "Louder" und "Harder".  
+Auf Wacken gibt es die drei großen Bühnen <strong>"Faster"</strong>, <strong>"Louder"</strong> und <strong>"Harder"</strong>.  
 Auf jeder der drei Bühnen kann natürlich immer nur eine Band zur Zeit spielen!  
 Die Bands können aber unterschiedlich viele Songs performen, von 1 bis maximal 4 Songs.  
 In diesem Spiel ist es so, dass Bands auch Zugaben geben können und mehrmals auf die Bühne kommen - auch wenn zwischendurch andere Bands spielen.
