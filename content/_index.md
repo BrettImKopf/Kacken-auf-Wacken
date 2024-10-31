@@ -62,25 +62,6 @@ Hier spielt z.B. gerade die Band <strong>"Iron Basin"</strong> ihren Song <stron
 </div>
 </details>
 
-<details>
-  <summary class="kaw-summary-2" id="bier-karten">24 „Bierstand“ - Karten</summary>
-<div class="kaw-card-brief"> 
-Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat. 
-</div>
-<div class="kaw-game-hint">
-    Diese Karten zieht ihr vom <em>"Bier"</em> - Nachziehstapel.
-</div>
-
-<div class="kaw-card-sample">                          
-
-| ![Bier - Karte](images/vorderseiten/Bier.png) | ![Rückseite Bier - Karten](images/rueckseiten/Bierstand.png) |
-|:---------------------------------------------:|:---------------------------------------------:|
-| _Beispiel Vorderseite_ | _Rückseite_   |
-
-</div>
-
-</details>
-
 
 
 <details>
@@ -89,7 +70,7 @@ Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat.
 Das Wichtigste auf einem Wacken - Festival ist die Musik. Aber welche? Welche Bands wollt ihr euch angucken? Klar, eigentlich alle - leider unmöglich.  
 Das sind die <strong>Bands</strong>, die ihr gerade gerne live sehen würdet, mit euren <strong>Lieblingssongs</strong>.  
 Wenn ihr z.B. die abgebildete Karte habt, habt ihr total Bock, zur Band <strong>"AC/WC"</strong> abzurocken.  
-Wenn die dann auch noch euren Lieblingssong - hier im Beispiel <strong>"Who Made Poo"</strong> - spielen, gibt das noch mehr Punkte beim Abrocken.
+Wenn die dann auch noch euren Lieblingssong - hier im Beispiel <strong>"Who Made Poo"</strong> - spielen, gibt das noch mehr Punkte beim <strong><a href="#abrocken">Abrocken</a></strong>.
 </div>
 <div class="kaw-game-hint">
     Diese Karten zieht ihr vom <em>"Rock!"</em> - Nachziehstapel.
@@ -124,10 +105,28 @@ Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
 | _Beispiel Vorderseite_ | _Rückseite_   |
 
 </div>
-
-
- 
 </details>
+
+
+<details>
+  <summary class="kaw-summary-2" id="bier-karten">24 „Bierstand“ - Karten</summary>
+<div class="kaw-card-brief"> 
+Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat. 
+</div>
+<div class="kaw-game-hint">
+    Diese Karten zieht ihr vom <em>"Bier"</em> - Nachziehstapel.
+</div>
+
+<div class="kaw-card-sample">                          
+
+| ![Bier - Karte](images/vorderseiten/Bier.png) | ![Rückseite Bier - Karten](images/rueckseiten/Bierstand.png) |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Beispiel Vorderseite_ | _Rückseite_   |
+
+</div>
+</details>
+
+
 
 <details>
   <summary class="kaw-summary-2">6 Karten mit Wacken-Bändchen</summary>
@@ -162,7 +161,11 @@ Wie im richtigen Leben: Wer am Ende die meisten <strong>Wacken - Bändchen</stro
   <summary class="kaw-summary-2" id="nachziehstapel">Die Nachziehstapel</summary>
 
 <div class="kaw-game-hint" style="text-align: left" >
-Sortiert als erstes die 4 verschiedenen Kartentypen nach ihren Rückseiten. Legt dann drei Nachziehstapel aus: 
+Sortiert als erstes die 4 verschiedenen Kartentypen nach ihren Rückseiten. Legt dann drei Nachziehstapel aus:  
+
+| ![Bierstand](images/rueckseiten/Bierstand.png) | ![Rock!](images/rueckseiten/Rock.png | ![WC](images/rueckseiten/WC.png
+|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
+| _Bierstand_ | _Rock!_ | _WC_ |  
 
 <ul>
 <li><strong><a href="#bier-karten">Bier - Karten</a></strong></li>
