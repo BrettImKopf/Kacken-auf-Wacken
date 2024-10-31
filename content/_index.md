@@ -333,41 +333,13 @@ Ihr zieht die oberste „Rock!“-Karte und nehmt sie auf die Hand. Ihr könnt b
 Die Songs auf den Karten sind eure Lieblingssongs. Wenn die Band auf der Bühne diesen Song spielt, wenn ihr abrockt, erhöht das den Fanfaktor und damit eure Siegpunkte.
 </details>
 <details>
-<summary class="kaw-summary-2" id="aktion-abrocken">Abrocken</summary>
-Siehe oben. Diese Aktion bringt euch die begehrten Wacken-Bändchen. Wenn Leute mitkommen, ist das gut für euch, denn dann ist mehr Bier da und der Gigfaktor erhöht sich. So könnt ihr euch vielleicht von anderen Spielern absetzen.
-
-Beispiel für die Punktevergabe:
-
-Auf der linken Bühne spielen Deep Poople die Songs „Pee King“ und „Black Shite“. Spieler A geht abrocken und bringt zwei Bier mit. Spieler B geht mit und bringt ein Bier mit. Insgesamt liegen also drei Bier vor der Bühne. 
-
-<table>
-	<thead>
-		<tr>
-			<th>Der Gigfaktor ist also <strong>6</strong>:<br/> 3 Bier x 2 Songs auf der Bühne<br/><br/>
-				Dieser Spieler hat eine Deep Poople - Karte; er bekommt also<br/><br/>
-				6 x 1 = <strong>6</strong> Punkte</th>
-			<td><img alt="Beispiel für die Punktevergabe" src="images/sample_abrechnen_1.jpg"></td>
-		</tr>
-	</thead>
-</table>
-
-<table>
-	<thead>
-		<tr>
-			<th>Dieser Spieler hat zwei Deep Poople - Karten. Auf der Bühne spielen sie sogar eins seiner Lieblingssongs: "Pee King"!<br/><br/>
-				Sein Fanfaktor ist also 3: Zwei passende Karten plus ein passender Song.<br/><br/>
-				Insgesamt bekommt er also <br/><br/>
-				6 x 3 = <strong>18</strong> Punkte</th>
-			<td><img alt="Beispiel für die Punktevergabe" src="images/sample_abrechnen_2.jpg"></td>
-		</tr>
-	</thead>
-</table>
+<summary class="kaw-summary-2" id="beispiel-abrechnen">Abrocken/Abrechnen</summary>
 
 Ein Spieler geht zu AC/WC uhnd bringt 2 Bier mit:
 
 ![Abrocken](images/abrocken_1.jpeg)
 
-Ein anderer Spieler geht mit und bringt 1 Bier mit:
+Ein anderer Spieler geht mit und bringt noch 1 Bier mit:
 
 ![Abrocken](images/abrocken_2.jpeg)  
 
@@ -377,7 +349,7 @@ Ein Spieler hat eine passende Rock!-Karte. Er bekommt also 6 x 1 = 6 Punkte.
 
 ![Abrocken](images/abrocken_3.jpeg)
 
-Der andere Spieler hat zwei passende Rock!-Karten. Ein Song auf seinen Rock!-Karten wird sogar gerade gespielt ("Who Made Poo"). Sein Fanfaktor isst also 3 (2 passende Karten plus 1 passender Song).  
+Der andere Spieler hat zwei passende Rock!-Karten. Ein Song auf seinen Rock!-Karten wird sogar gerade gespielt ("Who Made Poo"). Sein Fanfaktor ist also 3 (2 passende Karten plus 1 passender Song).  
 Er bekommt also 6 x 3 = 18 Punkte.
 
 ![Abrocken](images/abrocken_4.jpeg)
