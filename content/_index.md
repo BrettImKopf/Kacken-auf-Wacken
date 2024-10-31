@@ -284,8 +284,19 @@ Anzahl der Songs auf der Bühne x Bier
 </div>
 
 Der <strong>Gigfaktor</strong> ist für alle gleich.  
-Jetzt werden für jeden Metalhead, der mitgekommen ist (der also ein Bier vor die Bühne gelegt hat), der <strong>"Fanfaktor"</strong> errechnet: Die Anzahl der passenden "Rock!" - Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
-Die Siegpunkte erhält man dann, indem man den <strong>Gigfaktor</strong> mit dem <strong>Fanfaktor</strong> multipliziert.     
+Jetzt wird für jeden Metalhead, der mitgekommen ist (der also ein Bier vor die Bühne gelegt hat), der <strong>"Fanfaktor"</strong> errechnet: Die Anzahl der passenden "Rock!" - Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
+
+<div class="kaw-game-hint" style="text-align: left" >
+Fanfaktor = passende "Rock!" - Karten + Lieblingssongs
+</div>
+
+Die <strong>Gewinnpunkte</strong> für jeden Mitspieler errechnet sich dann einfach, indem man den <strong>Gigfaktor</strong> mit dem <strong>Fanfaktor</strong> multipliziert.  
+Jeder Mitspieler darf sich die entsprechende Anzahl an <strong>Wacken-Bändchen</strong> aus dem Vorrat nehmen.
+
+<div class="kaw-game-hint" style="text-align: left" >
+Siegpunkte = Gigfaktor x Fanfaktor
+</div>
+
 Klingt kompliziert, ist aber ganz einfach:
 
 | ![Spieler 1](images/abrechnen_1_rock.jpg) | ![Spieler 2](images/abrechnen_2_rock.jpg) |
@@ -295,19 +306,8 @@ Klingt kompliziert, ist aber ganz einfach:
 | _1 x 6 = 6_ |  _3 x 6 = 18_ |
 | ![Siegpunkte 1](images/6_punkte.jpg) | ![Siegpunkte 2](images/18_punkte.jpg) |
 
-<div class="kaw-game-hint" style="text-align: left" >
-Fanfaktor = passende "Rock!" - Karten + Lieblingssongs
-</div>
-
-- Die Gewinnpunkte für jeden Mitspieler errechnet sich dann einfach, indem man den "Gigfaktor" mit dem "Fanfaktor" multipliziert.  
-Jeder Mitspieler darf sich die entsprechende Anzahl an Wacken-Bändchen aus dem Vorrat nehmen.
-
-<div class="kaw-game-hint" style="text-align: left" >
-Siegpunkte = Gigfaktor x Fanfaktor
-</div>
-
-- Danach kommen die Biere zurück zum Bierstand (also den Ablagestapel für die "Bier" - Karten). Die eingesetzten "Rock!" - Karten kommen aus dem Spiel. Die "On Stage" - Karten der betreffenden Band kommen ebenfalls aus dem Spiel.  
-Anschließend kommt die Band aus dem Backstagebereich auf die frei gewordene Bühne, und es wird wie beim Spielaufbau verfahren (so lange eine neue "On Stage" - Karte ziehen, bis ein vierte Band kommt, die dann wieder im Backstage - Bereich wartet.
+Danach kommen die Biere zurück zum Bierstand (also den Ablagestapel für die "Bier" - Karten). Die eingesetzten "Rock!" - Karten kommen aus dem Spiel. Die "On Stage" - Karten der betreffenden Band kommen ebenfalls aus dem Spiel.  
+Anschließend kommt die Band aus dem Backstagebereich auf die frei gewordene Bühne, und es wird wie beim Spielaufbau verfahren (so lange eine neue "On Stage" - Karte ziehen, bis ein vierte Band kommt, die dann wieder im Backstage - Bereich wartet).
 
 <div class="kaw-game-hint" style="text-align: left" >
 Wenn ein Spieler mitkommen möchte, der zwar eine passende "Rock!" - Karte, aber kein Bier hat, könnt ihr versuchen, ihm noch schnell eins vom Bierstand zu holen.
