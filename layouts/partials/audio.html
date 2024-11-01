@@ -1,19 +1,74 @@
-<audio id="myAudio" controls muted="true">
-    <source src="{{ "audio/TheMaidenFan_128.mp3" | relURL }}" type="audio/mpeg">
-    Dein Browser unterstützt das Audio-Tag nicht.
+<!-- <audio id="myAudio" controls  autoplay muted="true"> -->
+    <!-- <source src="{{ "audio/TheMaidenFan_128.mp3" | relURL }}" type="audio/mpeg"> -->
+    <!-- Dein Browser unterstützt das Audio-Tag nicht. -->
+  <!-- </audio> -->
+
+<!-- <button id="muteButton" onclick="toggleMute()">🔇</button> -->
+
+<!-- <script> -->
+  <!-- function toggleMute() { -->
+    <!-- const audio = document.getElementById('myAudio'); -->
+    <!-- const muteButton = document.getElementById('muteButton'); -->
+
+    <!-- // Umschalten der `muted`-Eigenschaft -->
+    <!-- audio.muted = !audio.muted; -->
+
+    <!-- // Schaltflächenbeschriftung entsprechend ändern -->
+    <!-- muteButton.textContent = audio.muted ? "🔇" : "🔊"; -->
+  <!-- } -->
+<!-- </script> -->
+
+
+<div class="audio-controls">
+  <!-- Audio-Element, versteckt, startet automatisch und gemutet -->
+  <audio id="audioPlayer" autoplay muted class="hidden">
+    <source id="audioSource" src="{{ "audio/TheMaidenFan_128.mp3" | relURL }}" type="audio/mpeg">
+    Your browser does not support the audio element.
   </audio>
 
-<button id="muteButton" onclick="toggleMute()">🔇</button>
+  <!-- Steuerungselemente mit Icons -->
+  <button id="muteButton" onclick="toggleMute()">🔇</button>
+  <button id="nextButton" onclick="playNext()">⏭</button>
+</div>
 
 <script>
+  // Liste der MP3-Dateien
+  const mp3List = [
+    "{{ "audio/TheMaidenFan_128.mp3" | relURL }}",
+    "{{ "audio/GB.mp3" | relURL }}"
+  ];
+  let currentIndex = 0;
+
+  // Initialisiere das Audio-Element
+  const audioPlayer = document.getElementById("audioPlayer");
+  audioPlayer.src = mp3List[currentIndex];
+  audioPlayer.play();
+
+ 
+
+  // Funktion zum Stummschalten mit Icon-Anpassung
   function toggleMute() {
-    const audio = document.getElementById('myAudio');
-    const muteButton = document.getElementById('muteButton');
+    const muteButton = document.getElementById("muteButton");
+    audioPlayer.muted = !audioPlayer.muted;
+    muteButton.innerHTML = audioPlayer.muted ? "🔇" : "🔊"; // Mute-/Unmute-Icon
+  }
 
-    // Umschalten der `muted`-Eigenschaft
-    audio.muted = !audio.muted;
-
-    // Schaltflächenbeschriftung entsprechend ändern
-    muteButton.textContent = audio.muted ? "🔇" : "🔊";
+  // Funktion zum Abspielen der nächsten MP3-Datei
+  function playNext() {
+    currentIndex = (currentIndex + 1) % mp3List.length;
+    audioPlayer.src = mp3List[currentIndex];
+    audioPlayer.play();
   }
 </script>
+
+<style>
+  /* Styling, um nur die Mute-, Play/Pause- und Next-Buttons anzuzeigen */
+  .audio-controls {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .hidden {
+    display: none;
+  }
+</style>
