@@ -65,7 +65,7 @@ Hier spielt z.B. gerade die Band <strong>"Iron Basin"</strong> ihren Song <stron
 
 
 <details>
-  <summary class="kaw-summary-2" id="rock-karten">24 „Rock!“ - Karten</summary>
+  <summary class="kaw-summary-2" id="rock-karten">24 Rock!-Karten</summary>
 <div class="kaw-card-brief">   
 Das Wichtigste auf einem Wacken - Festival ist die Musik. Aber welche? Welche Bands wollt ihr euch angucken? Klar, eigentlich alle - leider unmöglich.  
 Das sind die <strong>Bands</strong>, die ihr gerade gerne live sehen würdet, mit euren <strong>Lieblingssongs</strong>.  
@@ -73,12 +73,12 @@ Wenn ihr z.B. die abgebildete Karte habt, habt ihr total Bock, zur Band <strong>
 Wenn die dann auch noch euren Lieblingssong - hier im Beispiel <strong>"Who Made Poo"</strong> - spielen, gibt das noch mehr Punkte beim <strong><a href="#abrocken">Abrocken</a></strong>.
 </div>
 <div class="kaw-game-hint">
-    Diese Karten zieht ihr vom <em>"Rock!"</em> - Nachziehstapel.
+    Diese Karten zieht ihr vom <em>Rock!</em> - Nachziehstapel.
 </div>
 
 <div class="kaw-card-sample">                         
 
-| ![Rock! - Karte ACWC Who Made Poo](images/vorderseiten/ACWC-WhoMadePoo.png) | ![Rückseite Rock! - Karten](images/rueckseiten/Rock.png) |
+| ![Rock!-Karte ACWC Who Made Poo](images/vorderseiten/ACWC-WhoMadePoo.png) | ![Rückseite Rock!-Karten](images/rueckseiten/Rock.png) |
 |:---------------------------------------------:|:---------------------------------------------:|
 | _Beispiel Vorderseite_ | _Rückseite_   |
 
@@ -234,11 +234,12 @@ Der Spieler mit den längsten Haaren fängt an, danach wird im Uhrzeigersinn wei
   <summary class="kaw-summary-2" id="kacken">Kacken</summary>
   
 <div class="kaw-game-hint" style="text-align: left" >
-Kack-Regel: Zieht ihr eine „Kacken“-Karte, egal wann und von welchem Stapel (sie sind in den Stapeln „Rock!“ und „Bierstand“ versteckt), legt ihr diese Karte offen vor euch hin. Euer Zug ist dann sofort beendet.
-Ihr könnt ab jetzt nichts anderes tun als euer Glück am WC zu versuchen, bis ihr die Karte wieder los seid. Ihr zieht keine "Rock!" - oder "Bier" - Karten.
+Kack-Regel: Zieht ihr eine <strong>Kack</strong>-Karte, egal wann und von welchem Stapel (sie sind in den Stapeln <strong>Rock!</strong> und <strong>Bierstand</strong> versteckt), <strong>legt ihr diese Karte offen vor euch hin. Euer Zug ist dann sofort beendet.</strong>
+Ihr könnt ab jetzt nichts anderes tun als euer Glück am <strong>WC</strong> zu versuchen, bis ihr die Karte wieder los seid. Ihr zieht keine Rock!- oder Bier-Karten.
 Ihr könnt auch nicht mitgehen, wenn jemand abrockt. 
 Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
 </div>
+
 <div class="kaw-card-sample">                         
 
 | ![Kack-Karte](images/Kacken.png) | ![Wacken - Bändchen](images/Kacken_bier.png) |
@@ -246,8 +247,10 @@ Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
 | _Kack-Karte im Rock!-Stapel_ | _Kack-Karte beim Bierstand_   |
 
 </div>
-
-
+<div class="kaw-game-hint" style="text-align: left" >
+Wenn ihr eine von diesen Karten vor euch liegen habt, macht ihr nichts anderes als ein freies <strong>WC</strong> zu suchen: Zieht eine von den <strong>WC</strong>-Karten und seht nach, ob frei ist. Wenn ja, könnt ihr eure <strong>Kack-Karte</strong> wieder ablegen und <strong>im nächsten Zug</strong> normal weiterspielen. Wenn nicht, Pech gehabt.<br/> 
+In beiden Fällen legt ihr die <strong>WC</strong>-Karte ab und euer Zug ist beendet.
+</div>
 </details>
 
 <details>
@@ -256,9 +259,9 @@ Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
 
 <div class="kaw-game-hint" style="text-align: left" >
  
-1. Ihr müsst zuerst entweder eine "Rock!" - oder eine "Bier" - Karte ziehen.  
+1. Ihr müsst zuerst entweder eine <strong>Rock!</strong>- oder eine <strong>Bier</strong>-Karte ziehen.  
 
-2. Wenn ihr dann mindestens 1 Bier habt, und wenn auf einer der Bühnen eine Band spielt, die ihr auf der Hand habt, könnt ihr <strong><a href="#abrocken">Abrocken</a></strong>!
+2. Wenn ihr dann <strong>mindestens 1 Bier habt</strong>, und wenn auf einer der Bühnen eine Band spielt, die ihr auf der Hand habt, könnt ihr <strong><a href="#abrocken">Abrocken</a></strong>!
 </div>
 
 
@@ -267,30 +270,31 @@ Beim "Bier alle" - Ereignis verliert ihr aber trotzdem euer Bier.
 <details>
 <summary class="kaw-summary-2" id="abrocken">Abrocken</summary>
 
-Als erstes legt ihr euer Bier (oder eure zwei Bier) vor die Bühne, auf der die Band spielt, die ihr euch ansehen wollt.  
+Als erstes legt ihr euer <strong>Bier</strong> (oder eure zwei <strong>Bier</strong>) vor die Bühne, auf der die Band spielt, die ihr euch ansehen wollt.  
 
-In diesem Beispiel hat ein Spieler Rock!-Karten von AC/WC und will abrocken. Also legt er seine zwei Bier vor die Bühne:
+In diesem Beispiel hat ein Spieler <strong>Rock!</strong>-Karten von AC/WC und will abrocken. Also legt er seine zwei <strong>Bier</strong> vor die Bühne:
  
 ![Abrechnen 1](images/abrechnen_2_bier.jpg)
 
-Alle Mitspieler, die ebenfalls passende "Rock!" - Karten und mindestens ein Bier auf der Hand haben, können dann mitkommen. Sie legen ihre Biere zu eurem Bier vor die Bühne.  
+Alle Mitspieler, die ebenfalls passende <strong>Rock!</strong>- Karten und mindestens ein <strong>Bier</strong> auf der Hand haben, können dann mitkommen. Sie legen ihre Biere zu eurem Bier vor die Bühne.  
 
-Im Beispiel kommt ein weiterer Spieler mit und legt sein Bier vor die Bühne:
+Im Beispiel kommt ein weiterer Spieler mit und legt sein <strong>Bier</strong> vor die Bühne:
 
 ![Abrechnen 1](images/abrechnen_3_bier.jpg)
 
-Wenn das alle getan haben, kann der <strong>"Gigfaktor"</strong> errechnet werden: Die Anzahl der Songs, die die betreffende Band spielt, mal der Anzahl an Bieren, die jetzt vor der Bühne liegen.  In unserem Beispiel sind das 6. 
+Wenn das alle getan haben, kann der <strong>"Gigfaktor"</strong> errechnet werden: Die Anzahl der Songs, die die betreffende Band spielt (also die offen ausliegenden <strong>On Stage</strong>-Karten der Band), mal der Anzahl an <strong>Bieren</strong>, die jetzt vor der Bühne liegen.  In unserem Beispiel sind das <strong>6</strong>. 
 
 <div class="kaw-game-hint" style="text-align: center" >
 Gigfaktor = <br/>
-Anzahl der Songs auf der Bühne x Bier
+Songs auf der Bühne x Bier
 </div>
 
 Der <strong>Gigfaktor</strong> ist für alle gleich.  
-Jetzt wird für jeden Metalhead, der mitgekommen ist (der also ein Bier vor die Bühne gelegt hat), der <strong>"Fanfaktor"</strong> errechnet: Die Anzahl der passenden "Rock!" - Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
+
+Jetzt wird für jeden Metalhead, der mitgekommen ist (der also mindestens ein Bier vor die Bühne gelegt hat), der <strong>"Fanfaktor"</strong> errechnet: Die Anzahl der passenden <strong>Rock!</strong>-Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
 
 <div class="kaw-game-hint" style="text-align: left" >
-Fanfaktor = passende "Rock!" - Karten + Lieblingssongs
+Fanfaktor = Rock!-Karten + Lieblingssongs
 </div>
 
 Die <strong>Gewinnpunkte</strong> für jeden Mitspieler errechnet sich dann einfach, indem man den <strong>Gigfaktor</strong> mit dem <strong>Fanfaktor</strong> multipliziert.  
@@ -304,18 +308,25 @@ Klingt kompliziert, ist aber ganz einfach:
 
 | ![Spieler 1](images/abrechnen_1_rock.jpg) | ![Spieler 2](images/abrechnen_2_rock.jpg) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Spieler 1 hat eine passende Rock!-Karte; Fanfaktor ist also 1_ | _Spieler 2 hat zwei passende Rock!-Karten und einen übereinstimmenden Song (Who made Poo). Damit hat er einen Fanfaktor von 3_   |
-| _Siegpunkte also_ |  _Siegpunkte also_ |
-| _1 x 6 = 6_ |  _3 x 6 = 18_ |
+| _Spieler 1 hat eine passende <strong>Rock!-Karte</strong>; <strong>Fanfaktor</strong> ist also <strong>1</strong>_ | _Spieler 2 hat zwei passende <strong>Rock!-Karten</strong> und einen <strong>übereinstimmenden Song</strong> (Who made Poo). Damit hat er einen <strong>Fanfaktor</strong> von <strong>3</strong>._<br/><br/>   |
+| <strong>_Siegpunkte also_</strong> |  <strong>_Siegpunkte also_</strong> |
+| <strong>_1 x 6 = 6_</strong> |  _<strong>3 x 6 = 18</strong>_ |
 | ![Siegpunkte 1](images/6_punkte.jpg) | ![Siegpunkte 2](images/18_punkte.jpg) |
 
-Danach kommen die Biere zurück zum Bierstand (also den Ablagestapel für die "Bier" - Karten). Die eingesetzten "Rock!" - Karten kommen aus dem Spiel. Die "On Stage" - Karten der betreffenden Band kommen ebenfalls aus dem Spiel.  
-Anschließend kommt die Band aus dem Backstagebereich auf die frei gewordene Bühne, und es wird wie beim Spielaufbau verfahren (so lange eine neue "On Stage" - Karte ziehen, bis ein vierte Band kommt, die dann wieder im Backstage - Bereich wartet).
 
-<div class="kaw-game-hint" style="text-align: left" >
-Wenn ein Spieler mitkommen möchte, der zwar eine passende "Rock!" - Karte, aber kein Bier hat, könnt ihr versuchen, ihm noch schnell eins vom Bierstand zu holen.
-Wenn ihr erfolgreich seid, kann er mitkommen (dadurch erhöhen sich auch eure Gewinnpunkte). Wenn ihr am Bierstand "warten" müsst, kann er nicht mitkommen. Die Kack-Regel gilt natürlich auch hier: Wenn ihr eine "Kacken" - Karte zieht, nimmt sich jeder sein Bier zurück und der nächste Spieler ist dran.
-</div>
+
+
+Danach kommen die <strong>Biere</strong> zurück zum Bierstand (also den Ablagestapel für die <strong>Bier</strong>-Karten). Die eingesetzten <strong>Rock</strong>!-Karten kommen aus dem Spiel. Die <strong>On Stage</strong>-karten der betreffenden Band kommen ebenfalls aus dem Spiel.  
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="naechste_band">Nächste Band auf die Bühne</summary>
+
+Nach dem Abrocken ist eine Bühne leer. Falls jetzt noch eine Band im Backstagebereich wartet, betritt diese jetzt die Bühne.  
+Das macht ihr so wie beim Aufbauen: so lange eine neue <strong>On Stage</strong>-Karte ziehen, bis ein vierte Band kommt, die dann wieder im Backstage - Bereich wartet.
+
+![Bühnenaufbau](images/buehnenaufbau_2.gif)
+
 
 </details>
 
@@ -327,108 +338,92 @@ Wenn ihr erfolgreich seid, kann er mitkommen (dadurch erhöhen sich auch eure Ge
 <details>
   <summary id="spielende">Spielende</summary>
 
-Das Spiel endet, wenn alle Bands gespielt haben, d.h. wenn alle „On Stage“ – Karten aus dem Spiel sind, oder es keine „Rock!“ – Karten mehr gibt.
-Wer die meisten Wacken-Bändchen hat, gewinnt.
+Das Spiel endet, wenn alle Bands gespielt haben, d.h. wenn alle <strong>On Stage</strong>–Karten aus dem Spiel sind, oder es keine <strong>Rock!</strong>–Karten mehr gibt.
+Wer die meisten <strong>Wacken-Bändchen</strong> hat, gewinnt.
 
 ***
 
 </details>
  
-
-
-<details>
-  <summary id="beispiele">Beispiele</summary>
-
-<details>
-<summary class="kaw-summary-2" id="buehnenaufbau_komplett">Bühnenaufbau komplett</summary>
-
-So wird die Bühne am Anfang aufgebaut:  
-
-![Bühnenaufbau](images/buehnenaufbau_1.gif)
-
-</details>
-
-<details>
-<summary class="kaw-summary-2" id="buehnenaufbau_bandwechsel">Bühnenaufbau Bandwechsel</summary>
-
-So betritt eine neue Band die Bühne:  
-
-![Bühnenaufbau](images/buehnenaufbau_2.gif)
-
-</details>
-<details>
-<summary class="kaw-summary-2" id="bier-holen">Bier holen</summary>
-Zieht die oberste Karte vom Bierstand. Wenn ihr Glück habt, bekommt ihr ein Bier. Wenn nicht, legt ihr die Karte vor dem Bierstand ab.
-Da ihr nur zwei Hände habt, könnt ihr maximal zwei Bier auf der Hand haben. Solltest ihr weniger als zwei Hände haben, könnt ihr natürlich trotzdem zwei Bier haben.
-</details>
-<details>
-<summary class="kaw-summary-2" id="bock-auf-metal">Bock auf Metal</summary>
-Ihr zieht die oberste „Rock!“-Karte und nehmt sie auf die Hand. Ihr könnt beliebig viele „Rock!“-Karten auf der Hand haben. Die „Rock!“-Karten, die ihr auf der Hand habt, bilden die Bands ab, auf die ihr gerade Bock habt. 
-Die Songs auf den Karten sind eure Lieblingssongs. Wenn die Band auf der Bühne diesen Song spielt, wenn ihr abrockt, erhöht das den Fanfaktor und damit eure Siegpunkte.
-</details>
-<details>
-<summary class="kaw-summary-2" id="beispiel-abrechnen">Abrocken/Abrechnen</summary>
-
-Ein Spieler geht zu AC/WC uhnd bringt 2 Bier mit:
-
-![Abrocken](images/abrocken_1.jpeg)
-
-Ein anderer Spieler geht mit und bringt noch 1 Bier mit:
-
-![Abrocken](images/abrocken_2.jpeg)  
-
-Jetzt liegen 3 Bier vor der Bühne, auf der 2 Songs gespielt werden. Der Gigfaktor ist also 2 x 3 = 6  
-
-Ein Spieler hat eine passende Rock!-Karte. Er bekommt also 6 x 1 = 6 Punkte.  
-
-![Abrocken](images/abrocken_3.jpeg)
-
-Der andere Spieler hat zwei passende Rock!-Karten. Ein Song auf seinen Rock!-Karten wird sogar gerade gespielt ("Who Made Poo"). Sein Fanfaktor ist also 3 (2 passende Karten plus 1 passender Song).  
-Er bekommt also 6 x 3 = 18 Punkte.
-
-![Abrocken](images/abrocken_4.jpeg)
-
-
-</details>
-<details>
-<summary class="kaw-summary-2" id="kacken-gehen">Kacken gehen</summary>
-Wenn du eine „Kacken“-Karte vor dir liegen hast, ist das alles, was du machen kannst: Zieh eine „WC“-Karte. Wenn frei ist, kannst du die „Kacken“-Karte ablegen (auf den Ablagestapel des Stapels, wo ihr sie herhabt), wenn nicht, dann nicht.
-In beiden Fällen ist danach der nächste Spieler dran. Die gezogene „WC“-Karte kommt auf den Ablagestapel für die „WC“-Karten.
-</details>
-<details>
-<summary class="kaw-summary-2" id="bier-ausgeben">Bier ausgeben</summary>
-Siehe oben. Du kannst das für alle Spieler machen, die mitkommen wollen. Voraussetzung ist, dass sie passende "Rock!" - Karten haben.
-</details>
-<details>
-<summary class="kaw-summary-2" id="quatschen">Quatschen</summary>
-Ihr könnt (und solltet) miteinander reden. Z.B. ist es sinnvoll, zu fragen, ob jemand mit zu einer Band kommt. Ihr könnt euch absprechen, ob ihr sofort geht oder später (in der Hoffnung, noch mehr passende „Rock!“-Karten zu ziehen oder dass noch jemand mitkommt).
-Ihr könnt auch verraten, welche Karten ihr auf der Hand habt, müsst ihr aber nicht.
-</details>
-
-
-
-
- 
-***
-
-</details>
 <details>
   <summary>Ereignisse</summary>
  
 ***
 
-Im „Rock!“ – Stapel gibt es einige Karten, die keine Band abbilden, sondern Ereignisse darstellen. Zieht der Spieler eine solche „Rock!“ – Karte, wird das entsprechende Ereignis ausgeführt:
- Bier alle
-Alle Spieler legen sofort alle ihre Bierkarten auf den Ablagestapel für den Bierstand ab.
- Running Order
-Eine Band ist fertig und räumt die Bühne. Welche Bühne das ist („Faster“, „Harder“ oder „Louder“), steht auf der Karte. Für die, die sich nicht merken können, wie die Bühnen heißen, steht dahinter noch die Position der Bühne („links“, „Mitte“ oder „rechts“).
-Sollte diese Bühne bereits leer sein, wird die Bühne geräumt, die in klein darunter steht. Wenn die auch leer ist, wird die letzte Bühne geräumt.
-Die offen ausliegenden Karten dieser Bühne kommen aus dem Spiel.
+Im <strong>Rock!</strong>–Stapel gibt es einige Karten, die keine Band abbilden, sondern <strong>Ereignisse</strong> darstellen. Zieht der Spieler eine solche <strong>Rock!</strong>– Karte, wird das entsprechende Ereignis ausgeführt:
+
+<details>
+<summary class="kaw-summary-2" id="bier_alle">Bier alle</summary>
+
+<div class="kaw-card-sample">                         
+
+| ![Bier alle - Karte](images/BierHolen.png) | Alle Spieler legen sofort alle ihre <strong>Bierkarten</strong> auf den Ablagestapel für den Bierstand ab. |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Bier-alle-Karte_ |    |
+
+</div>
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="running_order">Running Order</summary>
+
+<div class="kaw-card-sample">                         
+
+| ![Running Order - Karte](images/RunningOrder-Faster-Harder.png) |  Eine Band ist fertig und räumt die Bühne. Welche Bühne das ist („Faster“, „Harder“ oder „Louder“), steht auf der Karte. Für die, die sich nicht merken können, wie die Bühnen heißen, steht dahinter noch die Position der Bühne („links“, „Mitte“ oder „rechts“). Sollte diese Bühne bereits leer sein, wird die Bühne geräumt, die in klein darunter steht. Wenn die auch leer ist, wird die letzte Bühne geräumt. Die offen ausliegenden Karten dieser Bühne kommen aus dem Spiel. |
+|:---------------------------------------------:|:---------------------------------------------:|
+| _Running-Order-Karte. In diesem Beispiel wird die linke Bühne geräumt. Sollte die schon leer sein, wird die mittlere geräumt._ | |
+
+</div>
+
+Anschließend kommt wieder [wie oben beschrieben](#naechste_band) die nächste Band aus dem Backstagebereich auf die freigewordene Bühne.
+
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="events">Events</summary>
 Zusätzlich gibt es noch Karten, die selbsterklärend sind. Macht einfach das, was auf der Karte steht.
 
 Anschließend ist der Zug beendet und der nächste Spieler ist dran.
-Wenn der „Bierstand“ oder „WC“ – Stapel leer ist, werden die abgelegten Karten gemischt und erneut als verdeckter Nachziehstapel bereitgelegt.
+</details>
 
 ***
 
 </details>
+
+<details>
+  <summary id="allgemeine_regeln">Allgemeine Regeln</summary>
+
+<details>
+<summary class="kaw-summary-2" id="bier-ausgeben">Bier ausgeben</summary>
+
+Wenn ein Spieler zum <strong><a href="#abrocken">Abrocken</a></strong> mitkommen möchte, der zwar eine passende <strong>Rock!</strong>- Karte, aber kein <strong>Bier</strong> hat, könnt ihr versuchen, ihm noch schnell eins vom Bierstand zu holen.
+Wenn ihr erfolgreich seid, kann er mitkommen (dadurch erhöhen sich auch eure Gewinnpunkte). Wenn ihr am Bierstand "warten" müsst, kann er nicht mitkommen. Die Kack-Regel gilt natürlich auch hier: Wenn ihr eine <strong>Kack-Karte</strong> zieht, nimmt sich jeder sein <strong>Bier</strong> zurück und der nächste Spieler ist dran.
+
+Du kannst das für alle Spieler machen, die mitkommen wollen. Jeder, der mitkommen will, muss aber mindestens eine passende <strong>Rock</strong>!-Karten haben.
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="nachziehstapel">Nachziehstapel auffüllen</summary>
+
+
+Wenn der <strong>Bierstand</strong> oder der <strong>WC</strong>–Stapel leer ist, werden die abgelegten Karten gemischt und erneut als verdeckter Nachziehstapel bereitgelegt.  
+
+Wenn der Stapel mit den <strong>Rock!</strong>-Karten leer ist, ist das Spiel zu Ende.  
+
+Wenn der Stapel mit den <strong>On Stage</strong>-Karten leer ist, ist das Spiel ebenfalls zu Ende.  
+
+<div class="kaw-game-hint">
+    Wenn ihr eure <strong>Kack</strong>-Karte abgeben könnt, achtet darauf, dass ihr sie auf den richtigen Ablagestapel ablegt (<strong>Bier</strong> oder <strong>Rock!</strong>)!
+</div>
+</details>
+<details>
+<summary class="kaw-summary-2" id="quatschen">Quatschen</summary>
+Ihr könnt (und solltet) miteinander reden. Z.B. ist es sinnvoll, zu fragen, ob jemand mit zu einer Band kommt. Ihr könnt euch absprechen, ob ihr sofort geht oder später (in der Hoffnung, noch mehr passende <strong>Rock!</strong>-Karten zu ziehen oder dass noch jemand mitkommt).
+Ihr könnt auch verraten, welche Karten ihr auf der Hand habt, müsst ihr aber nicht.
+</details>
+
+
+***
+
+</details>
+
