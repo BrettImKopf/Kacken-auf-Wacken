@@ -1,0 +1,19 @@
+<audio id="myAudio" autoplay muted="true">
+    <source src="{{ "audio/TheMaidenFan2.mp3" | relURL }}" type="audio/mpeg">
+    Dein Browser unterstützt das Audio-Tag nicht.
+  </audio>
+
+<button id="muteButton" onclick="toggleMute()">🔇</button>
+
+<script>
+  function toggleMute() {
+    const audio = document.getElementById('myAudio');
+    const muteButton = document.getElementById('muteButton');
+
+    // Umschalten der `muted`-Eigenschaft
+    audio.muted = !audio.muted;
+
+    // Schaltflächenbeschriftung entsprechend ändern
+    muteButton.textContent = audio.muted ? "🔇" : "🔊";
+  }
+</script>

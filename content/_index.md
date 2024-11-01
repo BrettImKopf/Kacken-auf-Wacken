@@ -291,7 +291,7 @@ Songs auf der Bühne x Bier
 
 Der <strong>Gigfaktor</strong> ist für alle gleich.  
 
-Jetzt wird für jeden Metalhead, der mitgekommen ist (der also mindestens ein Bier vor die Bühne gelegt hat), der <strong>"Fanfaktor"</strong> errechnet: Die Anzahl der passenden <strong>Rock!</strong>-Karten für die betreffende Band plus 1 Extrapunkt für jeden übereinstimmenden Song.  
+Jetzt wird für jeden Metalhead, der mitgekommen ist (der also mindestens ein Bier vor die Bühne gelegt hat), der <strong>"Fanfaktor"</strong> errechnet: Die Anzahl der passenden <strong>Rock!</strong>-Karten für die betreffende Band <strong>plus 1 Extrapunkt für jeden übereinstimmenden Song</strong>.  
 
 <div class="kaw-game-hint" style="text-align: left" >
 Fanfaktor = Rock!-Karten + Lieblingssongs
@@ -367,13 +367,20 @@ Im <strong>Rock!</strong>–Stapel gibt es einige Karten, die keine Band abbilde
 <details>
 <summary class="kaw-summary-2" id="running_order">Running Order</summary>
 
-<div class="kaw-card-sample">                         
-
-| ![Running Order - Karte](images/RunningOrder-Faster-Harder.png) |  Eine Band ist fertig und räumt die Bühne. Welche Bühne das ist („Faster“, „Harder“ oder „Louder“), steht auf der Karte. Für die, die sich nicht merken können, wie die Bühnen heißen, steht dahinter noch die Position der Bühne („links“, „Mitte“ oder „rechts“). Sollte diese Bühne bereits leer sein, wird die Bühne geräumt, die in klein darunter steht. Wenn die auch leer ist, wird die letzte Bühne geräumt. Die offen ausliegenden Karten dieser Bühne kommen aus dem Spiel. |
+<div class="kaw-card-sample">     
+           
+| ![Running Order - Karte](images/RunningOrder-Faster-Harder.png)  |  |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Running-Order-Karte. In diesem Beispiel wird die linke Bühne geräumt. Sollte die schon leer sein, wird die mittlere geräumt._ | |
 
 </div>
+
+
+
+Eine Band ist fertig und räumt die Bühne. Welche Bühne das ist (<strong>„Faster“</strong>, <strong>„Harder“</strong> oder <strong>„Louder“</strong>), steht auf der Karte. Für die, die sich nicht merken können, wie die Bühnen heißen, steht dahinter noch die Position der Bühne („links“, „Mitte“ oder „rechts“). Sollte diese Bühne bereits leer sein, wird die Bühne geräumt, die in klein darunter steht. Wenn die auch leer ist, wird die letzte Bühne geräumt. Die offen ausliegenden Karten dieser Bühne kommen aus dem Spiel. 
+
+ _In diesem Beispiel wird die linke Bühne geräumt. Sollte die schon leer sein, wird die mittlere geräumt._
+
+
 
 Anschließend kommt wieder [wie oben beschrieben](#naechste_band) die nächste Band aus dem Backstagebereich auf die freigewordene Bühne.
 
@@ -392,6 +399,17 @@ Anschließend ist der Zug beendet und der nächste Spieler ist dran.
 
 <details>
   <summary id="allgemeine_regeln">Allgemeine Regeln</summary>
+
+<details>
+<summary class="kaw-summary-2" id="handkarten">Handkarten</summary>
+
+Alle Karten, die ihr vom <strong>Rock!</strong>-Stapel zieht, nehmt ihr auf die Hand. Ausnahmen sind:
+- <strong>Kack</strong>-Karten legt ihr vor euch ab, damit jeder sieht, dass ihr gerade mit euch selbst beschäftigt seid :-)
+- <strong>Running-Order</strong>-Karten und <strong>Ereignisse</strong>  werden ausgeführt und kommen aus dem Spiel (es sei denn, auf der Karte steht was anderes)  
+
+Wenn ihr beim <strong>Bierstand</strong> ein <strong>Bier</strong> bekommt (und nicht warten oder kacken müsst), nehmt ihr diese Karte auch auf die Hand. Wenn ihr hier eine "<strong>Warten</strong>"-Karte zieht, legt ihr diese einfach auf den Ablagestapel für den <strong>Bierstand</strong>. 
+
+</details>
 
 <details>
 <summary class="kaw-summary-2" id="bier-ausgeben">Bier ausgeben</summary>
@@ -418,7 +436,7 @@ Wenn der Stapel mit den <strong>On Stage</strong>-Karten leer ist, ist das Spiel
 </details>
 <details>
 <summary class="kaw-summary-2" id="quatschen">Quatschen</summary>
-Ihr könnt (und solltet) miteinander reden. Z.B. ist es sinnvoll, zu fragen, ob jemand mit zu einer Band kommt. Ihr könnt euch absprechen, ob ihr sofort geht oder später (in der Hoffnung, noch mehr passende <strong>Rock!</strong>-Karten zu ziehen oder dass noch jemand mitkommt).
+Ihr könnt (und solltet) miteinander reden. Z.B. ist es sinnvoll zu fragen, ob jemand mit zu einer Band zum <strong><a href="#abrocken">Abrocken</a></strong> kommt. Ihr könnt euch absprechen, ob ihr sofort geht oder später (in der Hoffnung, noch mehr passende <strong>Rock!</strong>-Karten zu ziehen oder dass noch jemand mitkommt).
 Ihr könnt auch verraten, welche Karten ihr auf der Hand habt, müsst ihr aber nicht.
 </details>
 

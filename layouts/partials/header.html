@@ -2,7 +2,11 @@
 	<div>
         {{ partial "logo.html" . }}
 	</div>
+</article>
+
     <div class="header__inner">
+	
+  {{ partial "audio.html" . }}
         <div class="header__right">
             {{- if len .Site.Menus }}
                 {{ partial "menu.html" . }}
