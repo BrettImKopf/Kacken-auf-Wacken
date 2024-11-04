@@ -8,7 +8,7 @@
 	
   {{ partial "audio.html" . }}
         <div class="header__right">
-            {{- if len .Site.Menus }}
+            {{- if gt (len .Site.Menus) 1 }}
                 {{ partial "menu.html" . }}
                 <div class="menu-trigger">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">

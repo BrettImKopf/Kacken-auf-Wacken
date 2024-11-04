@@ -3,7 +3,7 @@ languageCode = 'de_de'
 title = 'Kacken auf Wacken'
 theme = "hello-friend-ng"
 defaultContentLanguage = "en"
-EnableThemeToggle = "true"
+EnableThemeToggle = "false"
 
 [markup]
   [markup.goldmark]
@@ -39,14 +39,7 @@ trademark = "BrettImKopf"
 [params.author]
 	name = "Stephan Noll"
  
-[[menu.main]]
-  identifier = "faq"
-  name = "FAQs"
-  link = "#faq"
-  url = "/faq"
-  weight = 2
-  [menu.main.params]
-  caption = "Fragen und Antworten"
+
 [[menu.main]]
   identifier = "main"
   name = "Spielregeln"
