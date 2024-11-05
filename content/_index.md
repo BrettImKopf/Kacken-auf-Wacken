@@ -134,30 +134,21 @@ Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat.
 Wie im richtigen Leben: Wer am Ende die meisten <strong>Wacken - Bändchen</strong> gesammelt hat, gewinnt. Ihr bekommt diese Bändchen als Belohnung, wenn ihr zu einer Bühne zum <strong>Abrocken</strong> geht.
 </div>
 
+![Wacken - Bändchen](images/wackenbaendchen_sorted.jpg)
 
-<div class="kaw-card-sample">                         
-
-| ![Wacken - Bändchen](images/vorderseiten/4.png) | ![Wacken - Bändchen](images/vorderseiten/4.png) |
-|:---------------------------------------------:|:---------------------------------------------:|
-| _Beispiel Vorderseite_ | _Rückseite_   |
-
-</div>
 <div class="kaw-game-hint">
     Zerschneidet diese Karten, legt sie in Reichweite und verwendet die Wacken-Bändchen als <em>Siegpunkte</em>.  
 </div>
+         
 
-<div class="kaw-card-sample">                         
 
-| ![Wacken - Bändchen](images/wackenbaendchen.jpg) | ![Wacken - Bändchen](images/wackenbaendchen_sorted.jpg) |
-|:---------------------------------------------:|:---------------------------------------------:|
-| _Wackenbändchen_ | <em>Es gibt 1-er, 2-er, 3-er, 6-er, 10-er und 12-er</em>   |
 
-</div>
-
-</details>
 
 
 ***
+
+</details>
+
 
 </details>
 
@@ -304,14 +295,26 @@ Jeder Mitspieler darf sich die entsprechende Anzahl an <strong>Wacken-Bändchen<
 Siegpunkte = Gigfaktor x Fanfaktor
 </div>
 
-Klingt kompliziert, ist aber ganz einfach:
+Klingt kompliziert, ist aber ganz einfach.  
+Der <strong>Gigfaktor</strong> in unserem Beispiel war ja <strong>6</strong>:
+
+<div class="kaw-card-sample">    
+
+| 2 Songs mal 3 Bier: <br/><br/> <span style="font-size:1.5rem"><strong>Gigfaktor = 6</strong></span>  | ![Gigfaktor](images/gigfaktor.jpg) |
+|:---------------------------------------------:|:---------------------------------------------:|
+
+</div>
+
+<br/>
+
+Jetzt rechnen wir für jeden Spieler die <strong>Siegpunkte</strong> aus:  
+<br/>
+<br/>
 
 | ![Spieler 1](images/abrechnen_1_rock.jpg) | ![Spieler 2](images/abrechnen_2_rock.jpg) |
 |:---------------------------------------------:|:---------------------------------------------:|
-| _Spieler 1 hat eine passende <strong>Rock!-Karte</strong>; <strong>Fanfaktor</strong> ist also <strong>1</strong>_ | _Spieler 2 hat zwei passende <strong>Rock!-Karten</strong> und einen <strong>übereinstimmenden Song</strong> (Who made Poo). Damit hat er einen <strong>Fanfaktor</strong> von <strong>3</strong>._<br/><br/>   |
-| <strong>_Siegpunkte also_</strong> |  <strong>_Siegpunkte also_</strong> |
-| <strong>_1 x 6 = 6_</strong> |  _<strong>3 x 6 = 18</strong>_ |
-| ![Siegpunkte 1](images/6_punkte.jpg) | ![Siegpunkte 2](images/18_punkte.jpg) |
+| _Spieler 1 hat <strong>eine</strong> passende <strong>Rock!-Karte</strong>; <strong>Fanfaktor</strong> ist also <strong>1</strong>_ | _Spieler 2 hat <strong>zwei</strong> passende <strong>Rock!-Karten</strong> und <strong>einen übereinstimmenden Song</strong> (Who made Poo). Damit hat er einen <strong>Fanfaktor</strong> von <strong>3</strong>._<br/><br/>   |
+| <span style="font-size:1.5rem"><strong>_Siegpunkte also<br/>6 x 1 = 6_</strong></span>  |  <span style="font-size:1.5rem"><strong>_Siegpunkte also 6 x 3 = 18_</strong></span> |
 
 
 
@@ -322,7 +325,7 @@ Danach kommen die <strong>Biere</strong> zurück zum Bierstand (also den Ablages
 <details>
 <summary class="kaw-summary-2" id="naechste_band">Nächste Band auf die Bühne</summary>
 
-Nach dem Abrocken ist eine Bühne leer. Falls jetzt noch eine Band im Backstagebereich wartet, betritt diese jetzt die Bühne.  
+Nach dem [Abrocken](#abrocken) oder bei einer [Running-Order-Karte](#running_order) ist eine Bühne leer. Falls jetzt noch eine Band im Backstagebereich wartet, betritt diese jetzt die Bühne.  
 Das macht ihr so wie beim Aufbauen: so lange eine neue <strong>On Stage</strong>-Karte ziehen, bis ein vierte Band kommt, die dann wieder im Backstage - Bereich wartet.
 
 ![Bühnenaufbau](images/buehnenaufbau_2.gif)
@@ -369,7 +372,7 @@ Im <strong>Rock!</strong>–Stapel gibt es einige Karten, die keine Band abbilde
 
 <div class="kaw-card-sample">     
            
-| ![Running Order - Karte](images/RunningOrder-Faster-Harder.png)  |  |
+| ![Running Order - Karte](images/RunningOrder-Faster-Harder.png)  | Die linke Bühne wird geräumt. Wenn die schon leer ist, die mittlere. |
 |:---------------------------------------------:|:---------------------------------------------:|
 
 </div>
@@ -377,9 +380,6 @@ Im <strong>Rock!</strong>–Stapel gibt es einige Karten, die keine Band abbilde
 
 
 Eine Band ist fertig und räumt die Bühne. Welche Bühne das ist (<strong>„Faster“</strong>, <strong>„Harder“</strong> oder <strong>„Louder“</strong>), steht auf der Karte. Für die, die sich nicht merken können, wie die Bühnen heißen, steht dahinter noch die Position der Bühne („links“, „Mitte“ oder „rechts“). Sollte diese Bühne bereits leer sein, wird die Bühne geräumt, die in klein darunter steht. Wenn die auch leer ist, wird die letzte Bühne geräumt. Die offen ausliegenden Karten dieser Bühne kommen aus dem Spiel. 
-
- _In diesem Beispiel wird die linke Bühne geräumt. Sollte die schon leer sein, wird die mittlere geräumt._
-
 
 
 Anschließend kommt wieder [wie oben beschrieben](#naechste_band) die nächste Band aus dem Backstagebereich auf die freigewordene Bühne.
