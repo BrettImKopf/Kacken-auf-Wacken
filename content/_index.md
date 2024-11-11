@@ -7,7 +7,7 @@ draft = false
 
 # Kacken Auf Wacken
 
-## Spielregeln für das ultimative Kartenspiel für Metalheads  
+## Spielregeln für das ultimative Kartenspiel für 2-6 Metalheads  
   
 <details>
   <summary>Worum geht’s?</summary>
@@ -326,7 +326,7 @@ Danach kommen die <strong>Biere</strong> zurück zum Bierstand (also den Ablages
 <summary class="kaw-summary-2" id="naechste_band">Nächste Band auf die Bühne</summary>
 
 Nach dem [Abrocken](#abrocken) oder bei einer [Running-Order-Karte](#running_order) ist eine Bühne leer. Falls jetzt noch eine Band im Backstagebereich wartet, betritt diese jetzt die Bühne.  
-Das macht ihr so wie beim Aufbauen: so lange eine neue <strong>On Stage</strong>-Karte ziehen, bis ein vierte Band kommt, die dann wieder im Backstage - Bereich wartet.
+Das macht ihr so wie beim Aufbauen: so lange eine neue <strong>On Stage</strong>-Karte ziehen, bis eine vierte Band kommt, die dann wieder im Backstage - Bereich wartet.
 
 ![Bühnenaufbau](images/buehnenaufbau_2.gif)
 
@@ -338,16 +338,7 @@ Das macht ihr so wie beim Aufbauen: so lange eine neue <strong>On Stage</strong>
 
 </details>
 
-<details>
-  <summary id="spielende">Spielende</summary>
 
-Das Spiel endet, wenn alle Bands gespielt haben, d.h. wenn alle <strong>On Stage</strong>–Karten aus dem Spiel sind, oder es keine <strong>Rock!</strong>–Karten mehr gibt.
-Wer die meisten <strong>Wacken-Bändchen</strong> hat, gewinnt.
-
-***
-
-</details>
- 
 <details>
   <summary>Ereignisse</summary>
  
@@ -398,6 +389,17 @@ Anschließend ist der Zug beendet und der nächste Spieler ist dran.
 </details>
 
 <details>
+  <summary id="spielende">Spielende</summary>
+
+Das Spiel endet, wenn alle Bands gespielt haben, d.h. wenn alle <strong>On Stage</strong>–Karten aus dem Spiel sind, oder es keine <strong>Rock!</strong>–Karten mehr gibt.
+Wer die meisten <strong>Wacken-Bändchen</strong> hat, gewinnt.
+
+***
+
+</details>
+ 
+
+<details>
   <summary id="allgemeine_regeln">Allgemeine Regeln</summary>
 
 <details>
@@ -417,7 +419,7 @@ Wenn ihr beim <strong>Bierstand</strong> ein <strong>Bier</strong> bekommt (und 
 Wenn ein Spieler zum <strong><a href="#abrocken">Abrocken</a></strong> mitkommen möchte, der zwar eine passende <strong>Rock!</strong>- Karte, aber kein <strong>Bier</strong> hat, könnt ihr versuchen, ihm noch schnell eins vom Bierstand zu holen.
 Wenn ihr erfolgreich seid, kann er mitkommen (dadurch erhöhen sich auch eure Gewinnpunkte). Wenn ihr am Bierstand "warten" müsst, kann er nicht mitkommen. Die Kack-Regel gilt natürlich auch hier: Wenn ihr eine <strong>Kack-Karte</strong> zieht, nimmt sich jeder sein <strong>Bier</strong> zurück und der nächste Spieler ist dran.
 
-Du kannst das für alle Spieler machen, die mitkommen wollen. Jeder, der mitkommen will, muss aber mindestens eine passende <strong>Rock</strong>!-Karten haben.
+Ihr könnt das für alle Spieler machen, die mitkommen wollen. Jeder, der mitkommen will, muss aber mindestens eine passende <strong>Rock</strong>!-Karte haben.
 </details>
 
 <details>
@@ -445,3 +447,56 @@ Ihr könnt auch verraten, welche Karten ihr auf der Hand habt, müsst ihr aber n
 
 </details>
 
+<details>
+  <summary id="faq">FAQ</summary>
+
+<details>
+<summary class="kaw-summary-2" id="kaufen">Wo kann ich die Kartenspiele kaufen? Ich würde die gerne verschenken.</summary>
+
+Im Moment ist das Kartenspiel noch nicht käuflich zu erwerben. Sprich mich an, wenn du Spiele brauchst. 
+
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="musik">Wo kriege ich die Musik her, die ich hier abspielen kann?</summary>
+
+Das sind alles entweder Eigenkompositionen von mir oder gecoverte Songs. Bei den Songs, wo "Harter Hans" dabeisteht, singt Willi, von dem ich hoffe, dass er mir die Veröffentlichung auf diesem Wege erlaubt :-) 
+
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="spielerzahl_tipp1">Wieso können wir das nur zu sechst spielen? Wir sind 10!</summary>
+
+Wir haben es mit sechs Leuten getestet; das funktionierte super. Es geht natürlich auch mit mehr als sechs, aber es könnte sein, dass dann zu wenige Karten da sind. Probiert es einfach aus. Oder, die bessere Variante: Legt euch ein zweites Spiel zu und mischt die Karten einfach zusammen.
+
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="spiel_tipp1">Warum sollte ich den anderen verraten, welche Songs ich habe?</summary>
+
+Ihr könnt dadurch besser planen, ob und wann ihr zu einer Band zum Abrocken geht. Ihr könnt diese Information aber auch für euch behalten, je nach Strategie. Insbesondere wenn ihr zu zweit geht, kann es sinnvoll sein, nicht über eure Handkarten zu reden.
+Wenn ihr z.B. vollmundig verkündet, dass ihr von einer Band 3 Songs und einen Lieblingssong habt, wird euer Gegenspieler kaum mitkommen, weil er dadurch nur euren Gewinn vergrößern würde. 
+Wenn ihr mit mehr als zwei Leuten spielt, sieht das schon wieder anders aus, weil ihr dann zusammen den Rest der Mitspieler abhängen könnt.
+
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="abrocken_tipp1">Warum sollte ich überhaupt mitkommen, wenn jemand zum Abrocken geht? Dadurch kriegt der noch nur mehr Punkte!</summary>
+
+Ja, stimmt. Aber erstens kriegst du ja auch Punkte, die dir helfen, dich von den anderen abzusetzen. Und zweitens kriegst du ja vielleicht sogar mehr Punkte als er, weil du mehr Songs auf der Hand hast, vielleicht sogar Lieblingssongs. 
+Die Alternative ist, dass du nicht mitgehst und Gefahr läufst, gar keine Punkte für diese Band zu bekommen. Es kann immer sein, dass wegen einer "Running Order"-Karte die Bühne geräumt wird, oder das Spiel schneller zuende ist, als du denkst. Z.B. wenn 
+du 5 Runden lang vergeblich versuchst, ein freise WC zu finden. 
+
+</details>
+
+<details>
+<summary class="kaw-summary-2" id="abrocken_tipp2">Warum sollte ich nicht immer sofort abrocken, sobald das möglich ist?</summary>
+
+Weil du dadurch, dass vielleicht mehr Leute mitkommen, du noch einen passenden Song ziehst oder ein zweites Bier holst, noch viel mehr Punkte holen kannst. Ist natürlich immer riskant.
+
+</details>
+
+
+***
+
+</details>
