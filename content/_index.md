@@ -451,28 +451,28 @@ Ihr könnt auch verraten, welche Karten ihr auf der Hand habt, müsst ihr aber n
   <summary id="faq">FAQ</summary>
 
 <details>
-<summary class="kaw-summary-2" id="kaufen">Wo kann ich die Kartenspiele kaufen? Ich würde die gerne verschenken.</summary>
+<summary class="kaw-summary-2" id="kaufen"><span style="font-size:1.0rem">Wo kann ich die Kartenspiele kaufen? Ich würde die gerne verschenken.</span></summary>
 
 Im Moment ist das Kartenspiel noch nicht käuflich zu erwerben. Sprich mich an, wenn du Spiele brauchst. 
 
 </details>
 
 <details>
-<summary class="kaw-summary-2" id="musik">Wo kriege ich die Musik her, die ich hier abspielen kann?</summary>
+<summary class="kaw-summary-2" id="musik"><span style="font-size:1.0rem">Wo kriege ich die Musik her, die ich hier abspielen kann?</span></summary>
 
 Das sind alles entweder Eigenkompositionen von mir oder gecoverte Songs. Bei den Songs, wo "Harter Hans" dabeisteht, singt Willi, von dem ich hoffe, dass er mir die Veröffentlichung auf diesem Wege erlaubt :-) 
 
 </details>
 
 <details>
-<summary class="kaw-summary-2" id="spielerzahl_tipp1">Wieso können wir das nur zu sechst spielen? Wir sind 10!</summary>
+<summary class="kaw-summary-2" id="spielerzahl_tipp1"><span style="font-size:1.0rem">Wieso können wir das nur zu sechst spielen? Wir sind 10!</span></summary>
 
 Wir haben es mit sechs Leuten getestet; das funktionierte super. Es geht natürlich auch mit mehr als sechs, aber es könnte sein, dass dann zu wenige Karten da sind. Probiert es einfach aus. Oder, die bessere Variante: Legt euch ein zweites Spiel zu und mischt die Karten einfach zusammen.
 
 </details>
 
 <details>
-<summary class="kaw-summary-2" id="spiel_tipp1">Warum sollte ich den anderen verraten, welche Songs ich habe?</summary>
+<summary class="kaw-summary-2" id="spiel_tipp1"><span style="font-size:1.0rem">Warum sollte ich den anderen verraten, welche Songs ich habe?</span></summary>
 
 Ihr könnt dadurch besser planen, ob und wann ihr zu einer Band zum Abrocken geht. Ihr könnt diese Information aber auch für euch behalten, je nach Strategie. Insbesondere wenn ihr zu zweit geht, kann es sinnvoll sein, nicht über eure Handkarten zu reden.
 Wenn ihr z.B. vollmundig verkündet, dass ihr von einer Band 3 Songs und einen Lieblingssong habt, wird euer Gegenspieler kaum mitkommen, weil er dadurch nur euren Gewinn vergrößern würde. 
@@ -481,16 +481,16 @@ Wenn ihr mit mehr als zwei Leuten spielt, sieht das schon wieder anders aus, wei
 </details>
 
 <details>
-<summary class="kaw-summary-2" id="abrocken_tipp1">Warum sollte ich überhaupt mitkommen, wenn jemand zum Abrocken geht? Dadurch kriegt der noch nur mehr Punkte!</summary>
+<summary class="kaw-summary-2" id="abrocken_tipp1"><span style="font-size:1.0rem">Warum sollte ich überhaupt mitkommen, wenn jemand zum Abrocken geht? Dadurch kriegt der noch nur mehr Punkte!</span></summary>
 
 Ja, stimmt. Aber erstens kriegst du ja auch Punkte, die dir helfen, dich von den anderen abzusetzen. Und zweitens kriegst du ja vielleicht sogar mehr Punkte als er, weil du mehr Songs auf der Hand hast, vielleicht sogar Lieblingssongs. 
 Die Alternative ist, dass du nicht mitgehst und Gefahr läufst, gar keine Punkte für diese Band zu bekommen. Es kann immer sein, dass wegen einer "Running Order"-Karte die Bühne geräumt wird, oder das Spiel schneller zuende ist, als du denkst. Z.B. wenn 
-du 5 Runden lang vergeblich versuchst, ein freise WC zu finden. 
+du 5 Runden lang vergeblich versuchst, ein freies WC zu finden. 
 
 </details>
 
 <details>
-<summary class="kaw-summary-2" id="abrocken_tipp2">Warum sollte ich nicht immer sofort abrocken, sobald das möglich ist?</summary>
+<summary class="kaw-summary-2" id="abrocken_tipp2"><span style="font-size:1.0rem">Warum sollte ich nicht immer sofort abrocken, sobald das möglich ist?</span></summary>
 
 Weil du dadurch, dass vielleicht mehr Leute mitkommen, du noch einen passenden Song ziehst oder ein zweites Bier holst, noch viel mehr Punkte holen kannst. Ist natürlich immer riskant.
 
