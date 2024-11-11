@@ -65,7 +65,7 @@ Hier spielt z.B. gerade die Band <strong>"Iron Basin"</strong> ihren Song <stron
 
 
 <details>
-  <summary class="kaw-summary-2" id="rock-karten">24 Rock!-Karten</summary>
+  <summary class="kaw-summary-2" id="rock-karten">54 Rock!-Karten</summary>
 <div class="kaw-card-brief">   
 Das Wichtigste auf einem Wacken - Festival ist die Musik. Aber welche? Welche Bands wollt ihr euch angucken? Klar, eigentlich alle - leider unmöglich.  
 Das sind die <strong>Bands</strong>, die ihr gerade gerne live sehen würdet, mit euren <strong>Lieblingssongs</strong>.  
@@ -90,7 +90,7 @@ Wenn die dann auch noch euren Lieblingssong - hier im Beispiel <strong>"Who Made
 
 
 <details>
-  <summary class="kaw-summary-2" id="wc-karten">24 „WC“ - Karten</summary>
+  <summary class="kaw-summary-2" id="wc-karten">10 „WC“ - Karten</summary>
 <div class="kaw-card-brief"> 
 Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
 </div>
@@ -109,7 +109,7 @@ Fast die einzige Möglichkeit, euer Geschäft zu erledigen.
 
 
 <details>
-  <summary class="kaw-summary-2" id="bier-karten">24 „Bierstand“ - Karten</summary>
+  <summary class="kaw-summary-2" id="bier-karten">14 „Bierstand“ - Karten</summary>
 <div class="kaw-card-brief"> 
 Der Bierstand. Hier gibt’s <strong>Bier</strong>. Wenn man Glück hat. 
 </div>
