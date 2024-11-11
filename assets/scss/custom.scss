@@ -86,6 +86,17 @@ table td, table th {
   color: black;
 }
 
+.kaw-summary-faq {
+	font-size: 1.0rem;
+	line-height: 1.5;
+	font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: normal;
+  font-style: normal;
+  color: black;
+  margin-bottom: 10px;
+}
+
 [data-theme="dark"] kaw-summary-2 {
   color: white; /* Farbe im dunklen Theme */
 }
