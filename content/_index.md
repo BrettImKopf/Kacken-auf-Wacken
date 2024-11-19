@@ -501,3 +501,10 @@ Weil du dadurch, dass vielleicht mehr Leute mitkommen, du noch einen passenden S
 ***
 
 </details>
+
+<details>
+  <summary>Feedback</summary>
+
+  Kritik, Verbesserungsvorschläge, Ideen gerne an:  
+  BrettImKopf@gmx.de
+</details>
