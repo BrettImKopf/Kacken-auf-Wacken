@@ -461,7 +461,7 @@ Im Moment ist das Kartenspiel noch nicht käuflich zu erwerben. Sprich mich an, 
 <details>
 <summary class="kaw-summary-faq" id="musik">Wo kriege ich die Musik her, die ich hier abspielen kann?</summary>
 
-Das sind alles entweder Eigenkompositionen von mir oder gecoverte Songs. Bei den Songs, wo "Harter Hans" dabeisteht, singt Willi, von dem ich hoffe, dass er mir die Veröffentlichung auf diesem Wege erlaubt :-) 
+Das sind alles entweder Eigenkompositionen oder gecoverte Songs. Bei den Songs, wo "Harter Hans" dabeisteht, singt Willi von der Band <strong><a href="https://harterhans.de/">Harter Hans</a></strong>, von dem ich hoffe, dass er mir die Veröffentlichung auf diesem Wege erlaubt :-) 
 
 </details>
 
