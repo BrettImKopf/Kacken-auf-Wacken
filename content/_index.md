@@ -475,7 +475,7 @@ Wir haben es mit sechs Leuten getestet; das funktionierte super. Es geht natürl
 <details>
 <summary class="kaw-summary-faq" id="spiel_tipp1">Warum sollte ich den anderen verraten, welche Songs ich habe?</summary>
 
-Ihr könnt dadurch besser planen, ob und wann ihr zu einer Band zum Abrocken geht. Ihr könnt diese Information aber auch für euch behalten, je nach Strategie. Insbesondere wenn ihr zu zweit geht, kann es sinnvoll sein, nicht über eure Handkarten zu reden.
+Ihr könnt dadurch besser planen, ob und wann ihr zu einer Band zum Abrocken geht. Ihr könnt diese Information aber auch für euch behalten, je nach Strategie. Insbesondere wenn ihr zu zweit spielt, kann es sinnvoll sein, nicht über eure Handkarten zu reden.
 Wenn ihr z.B. vollmundig verkündet, dass ihr von einer Band 3 Songs und einen Lieblingssong habt, wird euer Gegenspieler kaum mitkommen, weil er dadurch nur euren Gewinn vergrößern würde. 
 Wenn ihr mit mehr als zwei Leuten spielt, sieht das schon wieder anders aus, weil ihr dann zusammen den Rest der Mitspieler abhängen könnt.
 
