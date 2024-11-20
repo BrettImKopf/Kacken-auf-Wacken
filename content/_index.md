@@ -417,7 +417,7 @@ Wenn ihr beim <strong>Bierstand</strong> ein <strong>Bier</strong> bekommt (und 
 <summary class="kaw-summary-2" id="bier-ausgeben">Bier ausgeben</summary>
 
 Wenn ein Spieler zum <strong><a href="#abrocken">Abrocken</a></strong> mitkommen möchte, der zwar eine passende <strong>Rock!</strong>- Karte, aber kein <strong>Bier</strong> hat, könnt ihr versuchen, ihm noch schnell eins vom Bierstand zu holen.
-Wenn ihr erfolgreich seid, kann er mitkommen (dadurch erhöhen sich auch eure Gewinnpunkte). Wenn ihr am Bierstand "warten" müsst, kann er nicht mitkommen. Die Kack-Regel gilt natürlich auch hier: Wenn ihr eine <strong>Kack-Karte</strong> zieht, nimmt sich jeder sein <strong>Bier</strong> zurück und der nächste Spieler ist dran.
+Wenn ihr erfolgreich seid, kann er mitkommen (dadurch erhöhen sich auch eure Gewinnpunkte). Wenn ihr am Bierstand "warten" müsst, kann er nicht mitkommen. Die Kack-Regel gilt natürlich auch hier: Wenn ihr eine <strong>Kack-Karte</strong> zieht, ist der nächste Spieler ist dran; in diesem Zug kann nicht abgerockt werden. Solltet ihr zu diesem Zeitpunkt einem anderen Spieler schon ein Bier ausgegeben haben, darf er es behalten. Biere, die du und ggf. weitere Spieler schon vor die Bühne gelegt habt, nehmt ihr wieder zurück.
 
 Ihr könnt das für alle Spieler machen, die mitkommen wollen. Jeder, der mitkommen will, muss aber mindestens eine passende <strong>Rock</strong>!-Karte haben.
 </details>
