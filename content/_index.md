@@ -506,5 +506,5 @@ Weil du dadurch, dass vielleicht mehr Leute mitkommen, du noch einen passenden S
   <summary>Feedback</summary>
 
   Kritik, Verbesserungsvorschläge, Ideen gerne an:  
-  BrettImKopf@gmx.de
+  BrettImKopf@gmx.de 
 </details>
