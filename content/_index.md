@@ -219,7 +219,9 @@ Euer Holy Ground könnte in etwa so aussehen:
 ***
 
 
-Der Spieler mit den längsten Haaren fängt an, danach wird im Uhrzeigersinn weitergespielt.
+Als erstes holt sich jeder Spieler ein Bier: Sucht euch für jeden eins aus dem <strong>Bierstand</strong> und mischt die restlichen Bierstand-Karten nochmal durch.
+
+Der Spieler mit den längsten Haaren fängt dann an, danach wird im Uhrzeigersinn weitergespielt.
 
 <details>
   <summary class="kaw-summary-2" id="kacken">Kacken</summary>
